@@ -14019,16 +14019,6 @@
 		)
 		(uuid "19752eaa-6a7a-4ff2-9306-50c9e9df1802")
 	)
-	(wire
-		(pts
-			(xy 468.63 284.48) (xy 463.55 284.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "19a10aaa-4923-4de4-9a66-3bcd914a52f4")
-	)
 	(polyline
 		(pts
 			(xy 527.05 243.84) (xy 527.05 375.92)
@@ -15132,6 +15122,16 @@
 	)
 	(wire
 		(pts
+			(xy 461.01 284.48) (xy 468.63 284.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "39458e2d-f5f9-4d68-b8a0-5f4365366388")
+	)
+	(wire
+		(pts
 			(xy 113.03 293.37) (xy 124.46 293.37)
 		)
 		(stroke
@@ -15252,7 +15252,7 @@
 	)
 	(wire
 		(pts
-			(xy 510.54 346.71) (xy 510.54 351.79)
+			(xy 510.54 344.17) (xy 510.54 351.79)
 		)
 		(stroke
 			(width 0)
@@ -17557,7 +17557,7 @@
 	)
 	(wire
 		(pts
-			(xy 471.17 349.25) (xy 471.17 351.79)
+			(xy 471.17 346.71) (xy 471.17 351.79)
 		)
 		(stroke
 			(width 0)
@@ -18208,7 +18208,7 @@
 	)
 	(wire
 		(pts
-			(xy 435.61 303.53) (xy 435.61 300.99)
+			(xy 435.61 297.18) (xy 435.61 303.53)
 		)
 		(stroke
 			(width 0)
@@ -18579,7 +18579,7 @@
 	)
 	(wire
 		(pts
-			(xy 421.64 290.83) (xy 421.64 284.48)
+			(xy 421.64 292.1) (xy 421.64 284.48)
 		)
 		(stroke
 			(width 0)
@@ -18609,7 +18609,7 @@
 	)
 	(wire
 		(pts
-			(xy 449.58 290.83) (xy 449.58 284.48)
+			(xy 449.58 292.1) (xy 449.58 284.48)
 		)
 		(stroke
 			(width 0)
@@ -18766,16 +18766,6 @@
 			(type default)
 		)
 		(uuid "b0bf2559-cd7a-4487-b15d-9f17eea123ea")
-	)
-	(wire
-		(pts
-			(xy 421.64 298.45) (xy 421.64 303.53)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b0cf5fde-8f3b-41a0-9c03-e667ccd8a55a")
 	)
 	(wire
 		(pts
@@ -19149,6 +19139,16 @@
 			(type default)
 		)
 		(uuid "be979f4c-142e-488c-9ac2-d190539d8155")
+	)
+	(wire
+		(pts
+			(xy 421.64 297.18) (xy 421.64 303.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bec0ae89-aed9-4523-92a8-8781a2eed6c6")
 	)
 	(wire
 		(pts
@@ -19775,7 +19775,7 @@
 	)
 	(wire
 		(pts
-			(xy 435.61 293.37) (xy 435.61 284.48)
+			(xy 435.61 292.1) (xy 435.61 284.48)
 		)
 		(stroke
 			(width 0)
@@ -19865,7 +19865,7 @@
 	)
 	(wire
 		(pts
-			(xy 449.58 298.45) (xy 449.58 303.53)
+			(xy 449.58 297.18) (xy 449.58 303.53)
 		)
 		(stroke
 			(width 0)
@@ -20566,7 +20566,7 @@
 	)
 	(wire
 		(pts
-			(xy 458.47 349.25) (xy 458.47 351.79)
+			(xy 458.47 346.71) (xy 458.47 351.79)
 		)
 		(stroke
 			(width 0)
@@ -22508,480 +22508,6 @@
 			(project "Shield_VCU_Board"
 				(path "/4a8cb20d-5f30-4163-a2c8-18e2deeb65d3"
 					(reference "C11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 421.64 294.64 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-0000698d16c0")
-		(property "Reference" "C1"
-			(at 421.894 290.322 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "4.7uF"
-			(at 421.894 292.354 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 422.6052 298.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 421.64 294.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 421.64 294.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "f1a094e6-5903-4865-9fb6-7ff2ea5c6867")
-		)
-		(pin "1"
-			(uuid "21d756d0-8ae0-4ad1-8dde-bb32be31dbf1")
-		)
-		(instances
-			(project "Shield_VCU_Board"
-				(path "/4a8cb20d-5f30-4163-a2c8-18e2deeb65d3"
-					(reference "C1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 435.61 297.18 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-0000698d4759")
-		(property "Reference" "C2"
-			(at 436.118 291.846 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "4.7uF"
-			(at 436.118 293.878 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 436.5752 300.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 435.61 297.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 435.61 297.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "9a62751f-9638-4793-923a-0dcd0557213b")
-		)
-		(pin "2"
-			(uuid "c9a2f8a8-a85f-49de-84ff-d41c51dd6ea7")
-		)
-		(instances
-			(project "Shield_VCU_Board"
-				(path "/4a8cb20d-5f30-4163-a2c8-18e2deeb65d3"
-					(reference "C2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 449.58 294.64 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-0000698d77c4")
-		(property "Reference" "C3"
-			(at 449.834 290.068 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "4.7uF"
-			(at 449.834 292.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 450.5452 298.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 449.58 294.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 449.58 294.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "9d3da93e-c69b-4c01-89b9-b8c0c9131970")
-		)
-		(pin "2"
-			(uuid "56b2c702-348f-4438-8f33-515374f4f806")
-		)
-		(instances
-			(project "Shield_VCU_Board"
-				(path "/4a8cb20d-5f30-4163-a2c8-18e2deeb65d3"
-					(reference "C3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 459.74 284.48 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-0000698da963")
-		(property "Reference" "C4"
-			(at 459.74 278.0792 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "0.47uF"
-			(at 459.74 280.3906 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 463.55 283.5148 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 459.74 284.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 459.74 284.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "f0998404-7c9a-485e-81b5-da4dfe15ce3a")
-		)
-		(pin "2"
-			(uuid "8cc3d45a-66ae-4a64-83fb-77d26067d0ae")
-		)
-		(instances
-			(project "Shield_VCU_Board"
-				(path "/4a8cb20d-5f30-4163-a2c8-18e2deeb65d3"
-					(reference "C4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 458.47 345.44 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-0000698ddb9f")
-		(property "Reference" "C5"
-			(at 461.391 344.2716 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "0.47uF"
-			(at 461.391 346.583 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 457.5048 341.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 458.47 345.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 458.47 345.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "d8253863-40b5-41d9-bbdf-28d77e23cb84")
-		)
-		(pin "1"
-			(uuid "d1e2de0c-47c1-4b54-82bd-8e8ed0798bec")
-		)
-		(instances
-			(project "Shield_VCU_Board"
-				(path "/4a8cb20d-5f30-4163-a2c8-18e2deeb65d3"
-					(reference "C5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 471.17 345.44 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-0000698e0f33")
-		(property "Reference" "C6"
-			(at 474.091 344.2716 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "0.22uF"
-			(at 474.091 346.583 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 470.2048 341.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 471.17 345.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 471.17 345.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "cb08f1d5-58c4-4ff2-9c5f-a2d64479ded3")
-		)
-		(pin "1"
-			(uuid "03434a0c-3bdd-424f-9f98-fe17fd778e85")
-		)
-		(instances
-			(project "Shield_VCU_Board"
-				(path "/4a8cb20d-5f30-4163-a2c8-18e2deeb65d3"
-					(reference "C6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 510.54 342.9 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-0000698e4145")
-		(property "Reference" "C1uF"
-			(at 513.461 341.7316 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "C7"
-			(at 513.461 344.043 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 509.5748 339.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 510.54 342.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 510.54 342.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "8663d825-8946-4af7-bb72-733a1436d805")
-		)
-		(pin "2"
-			(uuid "55734571-5084-4c2f-a683-71b0bc53f523")
-		)
-		(instances
-			(project "Shield_VCU_Board"
-				(path "/4a8cb20d-5f30-4163-a2c8-18e2deeb65d3"
-					(reference "C1uF")
 					(unit 1)
 				)
 			)
@@ -26616,6 +26142,75 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Small")
+		(at 435.61 294.64 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1e1c2775-b859-4092-9129-b83afc10b2b9")
+		(property "Reference" "C2"
+			(at 432.054 292.862 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "4.7nF"
+			(at 436.118 297.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 435.61 294.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 435.61 294.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 435.61 294.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "338c7307-220b-4c04-bfeb-03b582e3f4d0")
+		)
+		(pin "1"
+			(uuid "109a67c6-90d5-4708-9dc0-b2aaf3ff2378")
+		)
+		(instances
+			(project "Shield_VCU_Board"
+				(path "/4a8cb20d-5f30-4163-a2c8-18e2deeb65d3"
+					(reference "C2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
 		(at 209.55 107.95 270)
 		(unit 1)
@@ -27803,6 +27398,75 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Small")
+		(at 471.17 344.17 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "377cdaf9-c256-4d66-ae85-498ee7de59cf")
+		(property "Reference" "C5"
+			(at 470.662 342.138 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.22uF"
+			(at 478.282 346.202 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 471.17 344.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 471.17 344.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 471.17 344.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "a61a937a-955b-472f-8eed-c361fa099fa5")
+		)
+		(pin "1"
+			(uuid "73f4d626-bf1f-4d68-81c8-27accfc23761")
+		)
+		(instances
+			(project "Shield_VCU_Board"
+				(path "/4a8cb20d-5f30-4163-a2c8-18e2deeb65d3"
+					(reference "C5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Small")
 		(at 114.3 250.19 90)
 		(unit 1)
@@ -28855,6 +28519,75 @@
 			(project "Shield_VCU_Board"
 				(path "/4a8cb20d-5f30-4163-a2c8-18e2deeb65d3"
 					(reference "D9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 449.58 294.64 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "548bc9fb-e30f-4e8f-b6e5-99f961b6b7cf")
+		(property "Reference" "C3"
+			(at 446.278 292.862 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "4.7nF"
+			(at 450.088 297.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 449.58 294.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 449.58 294.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 449.58 294.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "1c5ef7a9-5413-487d-81e1-c8b6f13bc5a0")
+		)
+		(pin "1"
+			(uuid "ce86fd24-ccd7-42f9-a90e-ceba8f58eb03")
+		)
+		(instances
+			(project "Shield_VCU_Board"
+				(path "/4a8cb20d-5f30-4163-a2c8-18e2deeb65d3"
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -31028,6 +30761,75 @@
 			(project "Shield_VCU_Board"
 				(path "/4a8cb20d-5f30-4163-a2c8-18e2deeb65d3"
 					(reference "C19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 458.47 344.17 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "82f33f06-5d62-4e36-9433-e5a6972e6dbb")
+		(property "Reference" "C4"
+			(at 457.962 342.138 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.47uF"
+			(at 465.582 346.202 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 458.47 344.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 458.47 344.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 458.47 344.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "9c4d769e-bc71-43df-a336-f447be1f299c")
+		)
+		(pin "1"
+			(uuid "eff30470-da29-405b-b285-d7396529c07a")
+		)
+		(instances
+			(project "Shield_VCU_Board"
+				(path "/4a8cb20d-5f30-4163-a2c8-18e2deeb65d3"
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -33664,6 +33466,75 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Small")
+		(at 458.47 284.48 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b6ac685b-54c4-4e54-83c6-e2beaa4056c0")
+		(property "Reference" "C42"
+			(at 460.248 279.4 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.47uF"
+			(at 462.026 281.686 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 458.47 284.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 458.47 284.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 458.47 284.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "09fd9d59-f8c5-4472-a890-530e18f93466")
+		)
+		(pin "1"
+			(uuid "4671dd0b-df05-468f-8d57-ef2f3329917e")
+		)
+		(instances
+			(project "Shield_VCU_Board"
+				(path "/4a8cb20d-5f30-4163-a2c8-18e2deeb65d3"
+					(reference "C42")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:LED")
 		(at 200.66 196.85 180)
 		(unit 1)
@@ -34763,6 +34634,75 @@
 			(project "Shield_VCU_Board"
 				(path "/4a8cb20d-5f30-4163-a2c8-18e2deeb65d3"
 					(reference "J6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 421.64 294.64 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ce81896c-068e-4312-b0aa-0a7f60f69723")
+		(property "Reference" "C1"
+			(at 418.592 292.608 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "4.7nF"
+			(at 422.148 297.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 421.64 294.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 421.64 294.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 421.64 294.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "ce9d9010-cbf6-48df-bbd6-e44e9f245f12")
+		)
+		(pin "1"
+			(uuid "3572adab-a1c2-4792-b2ca-52480d65830b")
+		)
+		(instances
+			(project "Shield_VCU_Board"
+				(path "/4a8cb20d-5f30-4163-a2c8-18e2deeb65d3"
+					(reference "C1")
 					(unit 1)
 				)
 			)
@@ -35927,6 +35867,75 @@
 			(project "Shield_VCU_Board"
 				(path "/4a8cb20d-5f30-4163-a2c8-18e2deeb65d3"
 					(reference "#PWR036")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 510.54 341.63 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "dc184187-99be-45c5-b457-d88ada4f7eb4")
+		(property "Reference" "C6"
+			(at 510.032 339.598 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1uF"
+			(at 517.652 343.662 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 510.54 341.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 510.54 341.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 510.54 341.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "792ea285-85d4-492a-9810-777001e72023")
+		)
+		(pin "1"
+			(uuid "8b93c566-3190-4747-84e8-b8f4f191d4b1")
+		)
+		(instances
+			(project "Shield_VCU_Board"
+				(path "/4a8cb20d-5f30-4163-a2c8-18e2deeb65d3"
+					(reference "C6")
 					(unit 1)
 				)
 			)
