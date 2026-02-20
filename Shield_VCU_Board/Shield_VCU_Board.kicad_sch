@@ -14040,12 +14040,6 @@
 		(uuid "43e633b4-d021-41a2-921b-60d7e5d2cef7")
 	)
 	(junction
-		(at 193.04 33.02)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "45160ed3-67cf-4cb2-8130-51ffad43b87b")
-	)
-	(junction
 		(at 27.94 398.78)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -14238,6 +14232,12 @@
 		(uuid "6c5dc184-fd86-4174-b8c4-3aee2bda631c")
 	)
 	(junction
+		(at 200.66 25.4)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6c638179-e37c-4f04-9d40-a587458e1a33")
+	)
+	(junction
 		(at 312.42 381)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -14398,12 +14398,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9a2e62e9-cc24-49c4-a3d7-8df1a89d8e86")
-	)
-	(junction
-		(at 200.66 25.4)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9c1187a3-721f-48db-a814-6a3a2e0e5383")
 	)
 	(junction
 		(at 302.26 182.88)
@@ -14686,12 +14680,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d66ec873-f976-4b18-b2e0-b3e0cbb6ba09")
-	)
-	(junction
-		(at 193.04 25.4)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d6890f17-a61f-4124-a50e-dde66f722c1d")
 	)
 	(junction
 		(at 307.34 193.04)
@@ -16861,16 +16849,6 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 33.02) (xy 193.04 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2c6b1a8b-11ee-424d-a1c1-7ce7b8c35ee7")
-	)
-	(wire
-		(pts
 			(xy 334.01 168.91) (xy 334.01 271.78)
 		)
 		(stroke
@@ -18061,7 +18039,7 @@
 	)
 	(wire
 		(pts
-			(xy 200.66 33.02) (xy 200.66 38.1)
+			(xy 200.66 27.94) (xy 200.66 34.29)
 		)
 		(stroke
 			(width 0)
@@ -18379,6 +18357,16 @@
 			(type default)
 		)
 		(uuid "5f2c4ef8-f253-4c4c-a8df-b6c18d8ccba4")
+	)
+	(wire
+		(pts
+			(xy 195.58 25.4) (xy 200.66 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5f5fce97-04af-40c0-b9ee-74f4408e58c1")
 	)
 	(wire
 		(pts
@@ -19013,6 +19001,16 @@
 	)
 	(wire
 		(pts
+			(xy 184.15 25.4) (xy 187.96 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7208bebe-51be-46e0-b1a0-a74346393a68")
+	)
+	(wire
+		(pts
 			(xy 533.4 269.24) (xy 541.02 269.24)
 		)
 		(stroke
@@ -19023,7 +19021,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 25.4) (xy 182.88 25.4)
+			(xy 166.37 25.4) (xy 179.07 25.4)
 		)
 		(stroke
 			(width 0)
@@ -20256,16 +20254,6 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 33.02) (xy 179.07 27.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "971437ba-f8bb-4a70-b8fc-a58cd5a0a7af")
-	)
-	(wire
-		(pts
 			(xy 25.4 308.61) (xy 35.56 308.61)
 		)
 		(stroke
@@ -20807,16 +20795,6 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 33.02) (xy 200.66 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a8615555-ed28-4469-b625-053a1b38fd0a")
-	)
-	(wire
-		(pts
 			(xy 558.8 269.24) (xy 558.8 270.51)
 		)
 		(stroke
@@ -20855,6 +20833,16 @@
 			(color 143 0 0 1)
 		)
 		(uuid "a8dbc58c-d8b9-44cd-a3ed-64c9dba2f474")
+	)
+	(wire
+		(pts
+			(xy 166.37 27.94) (xy 200.66 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a9878213-8eb6-4973-b22a-449088613b3c")
 	)
 	(wire
 		(pts
@@ -21478,16 +21466,6 @@
 			(type default)
 		)
 		(uuid "bb245c15-c8f8-482f-9e46-ab7fa36eb10b")
-	)
-	(wire
-		(pts
-			(xy 193.04 25.4) (xy 200.66 25.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bb4b9797-d9a1-4dd7-a40e-c0c35d694571")
 	)
 	(wire
 		(pts
@@ -23503,16 +23481,6 @@
 			(type default)
 		)
 		(uuid "fbbf0ea7-ae98-4a01-bb79-81d3f0f40a0a")
-	)
-	(wire
-		(pts
-			(xy 187.96 25.4) (xy 193.04 25.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fbc37387-05a6-493c-a2b2-ebbde1f374e1")
 	)
 	(wire
 		(pts
@@ -32977,7 +32945,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 200.66 38.1 0)
+		(at 200.66 34.29 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -32985,7 +32953,7 @@
 		(dnp no)
 		(uuid "71ea4ef9-e3ec-4931-a4de-8e8121d6eaf4")
 		(property "Reference" "#PWR047"
-			(at 200.66 44.45 0)
+			(at 200.66 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32994,7 +32962,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 200.787 42.4942 0)
+			(at 200.787 38.6842 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33002,7 +32970,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 200.66 38.1 0)
+			(at 200.66 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33011,7 +32979,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 200.66 38.1 0)
+			(at 200.66 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33020,7 +32988,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 200.66 38.1 0)
+			(at 200.66 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33499,7 +33467,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x02_Socket")
-		(at 173.99 27.94 180)
+		(at 161.29 27.94 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -33507,7 +33475,7 @@
 		(dnp no)
 		(uuid "759b0427-1657-43dd-9ad7-a809ea5b131e")
 		(property "Reference" "J10"
-			(at 174.498 22.606 0)
+			(at 161.798 22.606 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33516,7 +33484,7 @@
 			)
 		)
 		(property "Value" "Main_Supply"
-			(at 161.798 26.416 0)
+			(at 149.098 26.416 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33525,7 +33493,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 173.99 27.94 0)
+			(at 161.29 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33534,7 +33502,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 173.99 27.94 0)
+			(at 161.29 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33543,7 +33511,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
-			(at 173.99 27.94 0)
+			(at 161.29 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35511,7 +35479,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N53xxB")
-		(at 193.04 29.21 270)
+		(at 191.77 25.4 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -35520,25 +35488,23 @@
 		(fields_autoplaced yes)
 		(uuid "9c70d16b-78b7-488e-bddc-934a78007e3a")
 		(property "Reference" "D15"
-			(at 195.58 27.9399 90)
+			(at 191.77 19.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "1N5242"
-			(at 195.58 30.4799 90)
+			(at 191.77 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-201_P15.24mm_Horizontal"
-			(at 188.595 29.21 0)
+			(at 191.77 20.955 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35547,7 +35513,7 @@
 			)
 		)
 		(property "Datasheet" "https://diotec.com/tl_files/diotec/files/pdf/datasheets/1n5345b.pdf"
-			(at 193.04 29.21 0)
+			(at 191.77 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35556,7 +35522,7 @@
 			)
 		)
 		(property "Description" "5000mW Zener Diode, DO-201"
-			(at 193.04 29.21 0)
+			(at 191.77 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40327,7 +40293,7 @@
 	)
 	(symbol
 		(lib_id "Device:Fuse_Small")
-		(at 185.42 25.4 0)
+		(at 181.61 25.4 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -40336,7 +40302,7 @@
 		(fields_autoplaced yes)
 		(uuid "d9931d26-3483-4c4c-b558-7379fd2d05df")
 		(property "Reference" "F1"
-			(at 185.42 20.32 0)
+			(at 181.61 20.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40344,7 +40310,7 @@
 			)
 		)
 		(property "Value" "Fuse"
-			(at 185.42 22.86 0)
+			(at 181.61 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40352,7 +40318,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 185.42 25.4 0)
+			(at 181.61 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40361,7 +40327,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 185.42 25.4 0)
+			(at 181.61 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40370,7 +40336,7 @@
 			)
 		)
 		(property "Description" "Fuse, small symbol"
-			(at 185.42 25.4 0)
+			(at 181.61 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
