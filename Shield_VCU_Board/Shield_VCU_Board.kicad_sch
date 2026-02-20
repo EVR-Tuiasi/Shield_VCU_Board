@@ -1717,7 +1717,7 @@
 							)
 						)
 					)
-					(number "23"
+					(number "25"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1735,7 +1735,7 @@
 							)
 						)
 					)
-					(number "24"
+					(number "26"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1746,14 +1746,14 @@
 				(pin bidirectional line
 					(at 30.48 -26.67 180)
 					(length 3.81)
-					(name "CTP_INT_N"
+					(name "CTP_RST_N"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "26"
+					(number "23"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1764,14 +1764,14 @@
 				(pin bidirectional line
 					(at 30.48 -29.21 180)
 					(length 3.81)
-					(name "CTP_RST_N"
+					(name "CTP_INT_N"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "25"
+					(number "24"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -11052,155 +11052,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Diode:1N53xxB"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "D"
-				(at 0 2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "1N53xxB"
-				(at 0 -2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "Diode_THT:D_DO-201_P15.24mm_Horizontal"
-				(at 0 -4.445 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://diotec.com/tl_files/diotec/files/pdf/datasheets/1n5345b.pdf"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "5000mW Zener Diode, DO-201"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "zener diode"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "D*DO?201*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "1N53xxB_0_1"
-				(polyline
-					(pts
-						(xy -1.27 -1.27) (xy -1.27 1.27) (xy -0.762 1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 0) (xy -1.27 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 -1.27) (xy 1.27 1.27) (xy -1.27 0) (xy 1.27 -1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "1N53xxB_1_1"
-				(pin passive line
-					(at -3.81 0 0)
-					(length 2.54)
-					(name "K"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 3.81 0 180)
-					(length 2.54)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Diode:MBR0540"
 			(pin_numbers
 				(hide yes)
@@ -13830,6 +13681,12 @@
 		(uuid "00253740-742a-4977-8e70-ee63c8b665ce")
 	)
 	(junction
+		(at 190.5 34.29)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "00d8fd8d-2233-4ff2-b1a3-0f6159e4727f")
+	)
+	(junction
 		(at 388.62 397.51)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -14202,6 +14059,12 @@
 		(uuid "654b070e-93b6-49bf-8654-58aae505c4a4")
 	)
 	(junction
+		(at 200.66 25.4)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "659f19c0-4426-4409-86ab-066ac0365151")
+	)
+	(junction
 		(at 307.34 222.25)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -14230,12 +14093,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6c5dc184-fd86-4174-b8c4-3aee2bda631c")
-	)
-	(junction
-		(at 200.66 25.4)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6c638179-e37c-4f04-9d40-a587458e1a33")
 	)
 	(junction
 		(at 312.42 381)
@@ -14314,6 +14171,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "843047f5-aa76-4b78-84bf-fffeec9eba8c")
+	)
+	(junction
+		(at 190.5 25.4)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "88c4be22-6c54-4d12-b1a7-eab4bce8afe7")
 	)
 	(junction
 		(at 252.73 392.43)
@@ -15627,6 +15490,16 @@
 	)
 	(wire
 		(pts
+			(xy 190.5 25.4) (xy 200.66 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "069b87d4-b03f-451d-9007-638f58eb58f3")
+	)
+	(wire
+		(pts
 			(xy 106.68 295.91) (xy 123.19 295.91)
 		)
 		(stroke
@@ -16165,6 +16038,16 @@
 			(type default)
 		)
 		(uuid "17be4ebb-18f4-485a-b14d-0e0e9874a529")
+	)
+	(wire
+		(pts
+			(xy 190.5 26.67) (xy 190.5 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "184777e6-bceb-4e4d-a6eb-2fd1db7e708b")
 	)
 	(wire
 		(pts
@@ -18039,16 +17922,6 @@
 	)
 	(wire
 		(pts
-			(xy 200.66 27.94) (xy 200.66 34.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "54871634-3cf6-4d20-9425-2618ad41cd6e")
-	)
-	(wire
-		(pts
 			(xy 118.11 354.33) (xy 125.73 354.33)
 		)
 		(stroke
@@ -18176,6 +18049,16 @@
 			(type default)
 		)
 		(uuid "596f4d70-76e6-4e86-9226-39813de2c975")
+	)
+	(wire
+		(pts
+			(xy 184.15 25.4) (xy 190.5 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "597f82df-38e8-4b8b-b84a-70b1a5d15e2e")
 	)
 	(polyline
 		(pts
@@ -18357,16 +18240,6 @@
 			(type default)
 		)
 		(uuid "5f2c4ef8-f253-4c4c-a8df-b6c18d8ccba4")
-	)
-	(wire
-		(pts
-			(xy 195.58 25.4) (xy 200.66 25.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5f5fce97-04af-40c0-b9ee-74f4408e58c1")
 	)
 	(wire
 		(pts
@@ -18998,16 +18871,6 @@
 			(type default)
 		)
 		(uuid "71f30ac7-241b-4f27-ad5c-55184686abbf")
-	)
-	(wire
-		(pts
-			(xy 184.15 25.4) (xy 187.96 25.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7208bebe-51be-46e0-b1a0-a74346393a68")
 	)
 	(wire
 		(pts
@@ -20836,7 +20699,7 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 27.94) (xy 200.66 27.94)
+			(xy 166.37 34.29) (xy 190.5 34.29)
 		)
 		(stroke
 			(width 0)
@@ -21395,6 +21258,16 @@
 			(type default)
 		)
 		(uuid "b7af41d9-0ff4-4c75-aa3f-e44d96ffb979")
+	)
+	(wire
+		(pts
+			(xy 166.37 34.29) (xy 166.37 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b7b93e03-d7ec-41bf-bf43-ae2259c1b760")
 	)
 	(polyline
 		(pts
@@ -22319,6 +22192,16 @@
 			(type default)
 		)
 		(uuid "d6f9e95b-ef25-4200-b25c-5639266c9b16")
+	)
+	(wire
+		(pts
+			(xy 190.5 34.29) (xy 200.66 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d73aff92-082a-4804-9ab0-acb975dcf8b1")
 	)
 	(wire
 		(pts
@@ -35478,74 +35361,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:1N53xxB")
-		(at 191.77 25.4 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9c70d16b-78b7-488e-bddc-934a78007e3a")
-		(property "Reference" "D15"
-			(at 191.77 19.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1N5242"
-			(at 191.77 21.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Diode_THT:D_DO-201_P15.24mm_Horizontal"
-			(at 191.77 20.955 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://diotec.com/tl_files/diotec/files/pdf/datasheets/1n5345b.pdf"
-			(at 191.77 25.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "5000mW Zener Diode, DO-201"
-			(at 191.77 25.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "0dc751f2-546b-4a16-b64a-ee169ad48564")
-		)
-		(pin "1"
-			(uuid "b4fa7da1-8d3a-45c7-a390-74918f731bb3")
-		)
-		(instances
-			(project ""
-				(path "/4a8cb20d-5f30-4163-a2c8-18e2deeb65d3"
-					(reference "D15")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Regulator_Linear:TLV76133DCY")
 		(at 551.18 332.74 0)
 		(unit 1)
@@ -36768,6 +36583,73 @@
 			(project "Shield_VCU_Board"
 				(path "/4a8cb20d-5f30-4163-a2c8-18e2deeb65d3"
 					(reference "7U4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:MBR0540")
+		(at 190.5 30.48 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "af9c9ec6-6fad-49a0-a671-f6324fd744c5")
+		(property "Reference" "D16"
+			(at 190.5 21.59 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "MBR****"
+			(at 190.5 23.622 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-123"
+			(at 186.055 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.mccsemi.com/up_pdf/MBR0520~MBR0580(SOD123).pdf"
+			(at 190.5 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "40V 0.5A Schottky Power Rectifier Diode, SOD-123"
+			(at 190.5 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "2b2a8686-634a-4c06-9955-fbbd4ba0f8ee")
+		)
+		(pin "1"
+			(uuid "0235808c-441b-4471-8f1f-0a869a93d5a2")
+		)
+		(instances
+			(project "Shield_VCU_Board"
+				(path "/4a8cb20d-5f30-4163-a2c8-18e2deeb65d3"
+					(reference "D16")
 					(unit 1)
 				)
 			)
