@@ -25826,7 +25826,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 481.33 120.65 0)
 			(effects
 				(font
@@ -26462,7 +26462,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 481.33 90.17 0)
 			(effects
 				(font
@@ -26994,7 +26994,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 481.33 95.25 0)
 			(effects
 				(font
@@ -27699,7 +27699,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 481.33 138.43 0)
 			(effects
 				(font
@@ -27768,7 +27768,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_2x18_P1.00mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_2x08_P1.00mm_Vertical"
 			(at 121.92 113.03 0)
 			(effects
 				(font
@@ -27889,7 +27889,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 481.33 80.01 0)
 			(effects
 				(font
@@ -28480,7 +28480,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 481.33 105.41 0)
 			(effects
 				(font
@@ -28546,7 +28546,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 481.33 123.19 0)
 			(effects
 				(font
@@ -28809,7 +28809,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 481.33 107.95 0)
 			(effects
 				(font
@@ -28875,7 +28875,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 481.33 77.47 0)
 			(effects
 				(font
@@ -29814,7 +29814,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 481.33 143.51 0)
 			(effects
 				(font
@@ -30106,7 +30106,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 481.33 69.85 0)
 			(effects
 				(font
@@ -30635,7 +30635,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 481.33 87.63 0)
 			(effects
 				(font
@@ -30701,7 +30701,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 481.33 118.11 0)
 			(effects
 				(font
@@ -32183,7 +32183,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 481.33 125.73 0)
 			(effects
 				(font
@@ -32766,7 +32766,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 481.33 115.57 0)
 			(effects
 				(font
@@ -33165,7 +33165,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 481.33 72.39 0)
 			(effects
 				(font
@@ -33231,7 +33231,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 481.33 128.27 0)
 			(effects
 				(font
@@ -33491,7 +33491,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 481.33 140.97 0)
 			(effects
 				(font
@@ -34452,7 +34452,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 481.33 133.35 0)
 			(effects
 				(font
@@ -34714,7 +34714,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 481.33 113.03 0)
 			(effects
 				(font
@@ -34920,7 +34920,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_2x18_P1.00mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_2x08_P1.00mm_Vertical"
 			(at 83.82 143.51 0)
 			(effects
 				(font
@@ -35302,7 +35302,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 481.33 74.93 0)
 			(effects
 				(font
@@ -35845,7 +35845,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 481.33 92.71 0)
 			(effects
 				(font
@@ -36865,7 +36865,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 481.33 102.87 0)
 			(effects
 				(font
@@ -37331,7 +37331,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_2x18_P1.00mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_2x08_P1.00mm_Vertical"
 			(at 83.82 171.45 0)
 			(effects
 				(font
@@ -38035,7 +38035,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 481.33 82.55 0)
 			(effects
 				(font
@@ -38299,7 +38299,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_2x18_P1.00mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_2x08_P1.00mm_Vertical"
 			(at 121.92 143.51 0)
 			(effects
 				(font
@@ -38481,7 +38481,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 481.33 110.49 0)
 			(effects
 				(font
@@ -38613,7 +38613,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 481.33 135.89 0)
 			(effects
 				(font
@@ -39216,7 +39216,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 481.33 100.33 0)
 			(effects
 				(font
@@ -39285,7 +39285,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_2x18_P1.00mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_2x08_P1.00mm_Vertical"
 			(at 83.82 113.03 0)
 			(effects
 				(font
@@ -39475,7 +39475,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 481.33 97.79 0)
 			(effects
 				(font
@@ -39541,7 +39541,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 481.33 85.09 0)
 			(effects
 				(font
@@ -40071,7 +40071,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_2x18_P1.00mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_2x08_P1.00mm_Vertical"
 			(at 121.92 172.72 0)
 			(effects
 				(font
