@@ -10751,6 +10751,376 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Device:R_Pack04"
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "RN"
+				(at -7.62 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "R_Pack04"
+				(at 5.08 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 6.985 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "4 resistor network, parallel topology"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "R network parallel topology isolated"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "DIP* SOIC* R*Array*Concave* R*Array*Convex* MSOP*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "R_Pack04_0_1"
+				(rectangle
+					(start -6.35 -2.413)
+					(end 3.81 2.413)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start -5.715 1.905)
+					(end -4.445 -1.905)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -5.08 1.905) (xy -5.08 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -5.08 -2.54) (xy -5.08 -1.905)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -3.175 1.905)
+					(end -1.905 -1.905)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 1.905) (xy -2.54 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 -2.54) (xy -2.54 -1.905)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -0.635 1.905)
+					(end 0.635 -1.905)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 1.905) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -2.54) (xy 0 -1.905)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 1.905 1.905)
+					(end 3.175 -1.905)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 1.905) (xy 2.54 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 -2.54) (xy 2.54 -1.905)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "R_Pack04_1_1"
+				(pin passive line
+					(at -5.08 5.08 270)
+					(length 2.54)
+					(name "R1.2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -5.08 90)
+					(length 2.54)
+					(name "R1.1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -2.54 5.08 270)
+					(length 2.54)
+					(name "R2.2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -2.54 -5.08 90)
+					(length 2.54)
+					(name "R2.1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 5.08 270)
+					(length 2.54)
+					(name "R3.2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -5.08 90)
+					(length 2.54)
+					(name "R3.1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 5.08 270)
+					(length 2.54)
+					(name "R4.2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 -5.08 90)
+					(length 2.54)
+					(name "R4.1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Device:R_Small"
 			(pin_numbers
 				(hide yes)
@@ -18366,7 +18736,7 @@
 	)
 	(wire
 		(pts
-			(xy 280.67 401.32) (xy 280.67 382.27)
+			(xy 280.67 402.59) (xy 280.67 382.27)
 		)
 		(stroke
 			(width 0)
@@ -18877,6 +19247,16 @@
 	)
 	(wire
 		(pts
+			(xy 273.05 389.89) (xy 273.05 391.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6e49badb-a2ab-4b29-9d94-5e8c221ff836")
+	)
+	(wire
+		(pts
 			(xy 469.9 80.01) (xy 469.9 85.09)
 		)
 		(stroke
@@ -18907,7 +19287,7 @@
 	)
 	(wire
 		(pts
-			(xy 273.05 383.54) (xy 273.05 379.73)
+			(xy 273.05 382.27) (xy 273.05 379.73)
 		)
 		(stroke
 			(width 0)
@@ -21736,7 +22116,7 @@
 	)
 	(wire
 		(pts
-			(xy 262.89 401.32) (xy 280.67 401.32)
+			(xy 262.89 402.59) (xy 280.67 402.59)
 		)
 		(stroke
 			(width 0)
@@ -24180,7 +24560,7 @@
 	)
 	(global_label "BL_PWM"
 		(shape input)
-		(at 262.89 401.32 180)
+		(at 262.89 402.59 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24189,7 +24569,7 @@
 		)
 		(uuid "91871663-d608-4a97-aade-d6f52eb6c485")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 262.89 401.32 0)
+			(at 262.89 402.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26310,7 +26690,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0aa17d1a-5d24-499c-a972-6656559c09ab")
-		(property "Reference" "RSET"
+		(property "Reference" "RSET2"
 			(at 322.072 391.668 0)
 			(effects
 				(font
@@ -26361,7 +26741,7 @@
 		(instances
 			(project "Shield_VCU_Board"
 				(path "/4a8cb20d-5f30-4163-a2c8-18e2deeb65d3"
-					(reference "RSET")
+					(reference "RSET2")
 					(unit 1)
 				)
 			)
@@ -33475,7 +33855,7 @@
 		(dnp no)
 		(uuid "759b0427-1657-43dd-9ad7-a809ea5b131e")
 		(property "Reference" "J10"
-			(at 22.098 238.506 0)
+			(at 18.034 242.316 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33484,7 +33864,7 @@
 			)
 		)
 		(property "Value" "Main_Supply"
-			(at 18.542 246.38 90)
+			(at 21.082 238.506 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33529,6 +33909,92 @@
 			(project "Shield_VCU_Board"
 				(path "/4a8cb20d-5f30-4163-a2c8-18e2deeb65d3"
 					(reference "J10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Pack04")
+		(at 92.71 345.44 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "772dccb6-6afd-4e72-a307-145960b2ecbe")
+		(property "Reference" "RN_Sample_1"
+			(at 92.71 336.55 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "R_Pack04"
+			(at 92.71 339.09 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 92.71 338.455 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 92.71 345.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "4 resistor network, parallel topology"
+			(at 92.71 345.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "5"
+			(uuid "cad274a8-3764-43cb-b087-1524d2b93d6e")
+		)
+		(pin "3"
+			(uuid "aecd0029-332f-40b6-808d-ec8324a66b7d")
+		)
+		(pin "6"
+			(uuid "66931e6b-f452-419b-9eb5-10b059ed08a1")
+		)
+		(pin "8"
+			(uuid "6eb8c266-f139-4f36-97e5-cf4611d8b261")
+		)
+		(pin "1"
+			(uuid "0811b73d-ca4b-404a-8a98-c44df48f78d4")
+		)
+		(pin "7"
+			(uuid "576195d0-226d-41f3-b6d7-7048b7a96f7f")
+		)
+		(pin "2"
+			(uuid "911dd47f-0d61-4f2c-9606-a8508e11fd6a")
+		)
+		(pin "4"
+			(uuid "c1d00bb1-e32b-485c-a5a7-8849ea02e4e0")
+		)
+		(instances
+			(project ""
+				(path "/4a8cb20d-5f30-4163-a2c8-18e2deeb65d3"
+					(reference "RN_Sample_1")
 					(unit 1)
 				)
 			)
@@ -34094,7 +34560,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148WT")
-		(at 273.05 387.35 270)
+		(at 273.05 386.08 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -34102,7 +34568,7 @@
 		(dnp no)
 		(uuid "7f12617c-b59b-4289-a0d7-14e73650985d")
 		(property "Reference" "D17"
-			(at 269.24 384.81 90)
+			(at 269.24 383.54 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34111,7 +34577,7 @@
 			)
 		)
 		(property "Value" "1N4148WT"
-			(at 275.844 381.508 0)
+			(at 275.59 381.508 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34120,7 +34586,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 268.605 387.35 0)
+			(at 268.605 386.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34129,7 +34595,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30396.pdf"
-			(at 273.05 387.35 0)
+			(at 273.05 386.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34138,7 +34604,7 @@
 			)
 		)
 		(property "Description" "75V 0.15A Fast switching Diode, SOD-523"
-			(at 273.05 387.35 0)
+			(at 273.05 386.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34147,7 +34613,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 273.05 387.35 0)
+			(at 273.05 386.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34156,7 +34622,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 273.05 387.35 0)
+			(at 273.05 386.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40786,7 +41252,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_Phoenix_GMSTB:PhoenixContact_GMSTBV_2,5_4-GF-7,62_1x04_P7.62mm_Vertical_ThreadedFlange"
+		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x04_P1.00mm_Vertical"
 			(at 113.03 85.09 0)
 			(effects
 				(font
@@ -41394,7 +41860,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "3V3_SPKR"
+		(property "Value" "3V3_AUD"
 			(at 60.071 278.8158 0)
 			(effects
 				(font
