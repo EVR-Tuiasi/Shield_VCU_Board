@@ -28074,7 +28074,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_TDK_VLF10040"
+		(property "Footprint" "Inductor_SMD:L_TDK_SLF7032"
 			(at 298.45 370.84 0)
 			(effects
 				(font
