@@ -26269,7 +26269,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Display_7Segment:HDSP-7801"
+		(property "Footprint" "GHSTProj:T7DS052BC"
 			(at 322.58 114.3 0)
 			(effects
 				(font
@@ -29654,7 +29654,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Display_7Segment:HDSP-7801"
+		(property "Footprint" "GHSTProj:T7DS052BC"
 			(at 322.58 260.35 0)
 			(effects
 				(font
@@ -29745,7 +29745,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Display_7Segment:HDSP-7801"
+		(property "Footprint" "GHSTProj:T7DS052BC"
 			(at 322.58 231.14 0)
 			(effects
 				(font
@@ -29948,8 +29948,8 @@
 		(at 558.8 173.99 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
+		(in_bom no)
+		(on_board no)
 		(dnp no)
 		(uuid "31358942-0989-4499-903d-281eb4d981aa")
 		(property "Reference" "RTP1"
@@ -30391,7 +30391,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Display_7Segment:HDSP-7801"
+		(property "Footprint" "GHSTProj:T7DS052BC"
 			(at 322.58 55.88 0)
 			(effects
 				(font
@@ -31337,7 +31337,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Display_7Segment:HDSP-7801"
+		(property "Footprint" "GHSTProj:T7DS052BC"
 			(at 322.58 143.51 0)
 			(effects
 				(font
@@ -33872,7 +33872,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_Phoenix_GMSTB:PhoenixContact_GMSTBA_2,5_2-G-7,62_1x02_P7.62mm_Horizontal"
+		(property "Footprint" "Connector_Molex:Molex_KK-396_A-41792-0002_1x02_P3.96mm_Horizontal"
 			(at 21.59 243.84 0)
 			(effects
 				(font
@@ -35467,7 +35467,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_Phoenix_GMSTB:PhoenixContact_GMSTBVA_2,5_2-G-7,62_1x02_P7.62mm_Vertical"
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Horizontal"
 			(at 547.37 325.12 0)
 			(effects
 				(font
@@ -37127,7 +37127,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Display_7Segment:HDSP-7801"
+		(property "Footprint" "GHSTProj:T7DS052BC"
 			(at 322.58 172.72 0)
 			(effects
 				(font
@@ -38129,7 +38129,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Display_7Segment:HDSP-7801"
+		(property "Footprint" "GHSTProj:T7DS052BC"
 			(at 322.58 85.09 0)
 			(effects
 				(font
@@ -38286,7 +38286,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Display_7Segment:HDSP-7801"
+		(property "Footprint" "GHSTProj:T7DS052BC"
 			(at 322.58 201.93 0)
 			(effects
 				(font
@@ -41701,8 +41701,8 @@
 		(at 537.21 182.88 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
+		(in_bom no)
+		(on_board no)
 		(dnp no)
 		(uuid "ebae201d-2d6e-4f2d-85e3-776cfeeccdcc")
 		(property "Reference" "J9"
