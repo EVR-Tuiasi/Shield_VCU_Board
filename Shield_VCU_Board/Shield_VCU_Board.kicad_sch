@@ -14600,12 +14600,6 @@
 		(uuid "4168fdcc-d329-408e-9588-754d2cf0bdb1")
 	)
 	(junction
-		(at 31.75 279.4)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4282fa08-37fc-405c-9104-2518bdf38b5b")
-	)
-	(junction
 		(at 495.3 168.91)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -14802,12 +14796,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "766eecea-f9e1-4b73-9680-269e3d0a18f7")
-	)
-	(junction
-		(at 31.75 271.78)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "787f44ab-3c3f-4835-9223-7a68795764cf")
 	)
 	(junction
 		(at 504.19 168.91)
@@ -18614,16 +18602,6 @@
 	)
 	(wire
 		(pts
-			(xy 31.75 271.78) (xy 31.75 279.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5b5a3c00-87df-4452-b6e8-40f4564b178c")
-	)
-	(wire
-		(pts
 			(xy 459.74 135.89) (xy 462.28 135.89)
 		)
 		(stroke
@@ -18801,16 +18779,6 @@
 			(type default)
 		)
 		(uuid "61e0804c-d2eb-4c4e-89e0-d54c389106ba")
-	)
-	(wire
-		(pts
-			(xy 31.75 279.4) (xy 31.75 283.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "61f01f44-0b63-4c3f-b2eb-44e651b4badb")
 	)
 	(wire
 		(pts
@@ -20385,16 +20353,6 @@
 			(type default)
 		)
 		(uuid "8feee19e-33ca-46ce-bf0f-f67a021f6b96")
-	)
-	(wire
-		(pts
-			(xy 24.13 271.78) (xy 31.75 271.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "90479214-268d-4f65-9439-26b766905353")
 	)
 	(wire
 		(pts
@@ -22114,16 +22072,6 @@
 	)
 	(wire
 		(pts
-			(xy 31.75 271.78) (xy 39.37 271.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c7b43764-83fc-4c5a-b1e2-097c891f56bd")
-	)
-	(wire
-		(pts
 			(xy 431.8 82.55) (xy 467.36 82.55)
 		)
 		(stroke
@@ -23627,16 +23575,6 @@
 	)
 	(wire
 		(pts
-			(xy 24.13 279.4) (xy 31.75 279.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f83b584a-d62c-4d78-a8e6-8aa45a1db794")
-	)
-	(wire
-		(pts
 			(xy 200.66 332.74) (xy 200.66 335.28)
 		)
 		(stroke
@@ -23835,16 +23773,6 @@
 			(type default)
 		)
 		(uuid "fcd001d0-42f5-4988-bf7f-699500839821")
-	)
-	(wire
-		(pts
-			(xy 31.75 279.4) (xy 39.37 279.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fd308676-216b-489a-9b50-eb250aed5fd6")
 	)
 	(wire
 		(pts
@@ -28335,73 +28263,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
-		(at 41.91 271.78 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "234a1176-7650-4af8-9bb0-0a847cf40b9e")
-		(property "Reference" "H2"
-			(at 38.608 270.51 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole_Pad"
-			(at 41.9101 274.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_Pad"
-			(at 41.91 271.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 41.91 271.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole with connection"
-			(at 41.91 271.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e28e7fe3-ec54-4de1-aece-0493ca096cb9")
-		)
-		(instances
-			(project "Shield_VCU_Board"
-				(path "/4a8cb20d-5f30-4163-a2c8-18e2deeb65d3"
-					(reference "H2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GNDA")
 		(at 449.58 312.42 0)
 		(unit 1)
@@ -30211,72 +30072,6 @@
 			(project "Shield_VCU_Board"
 				(path "/4a8cb20d-5f30-4163-a2c8-18e2deeb65d3"
 					(reference "#PWR045")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
-		(at 21.59 279.4 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "4101f6c0-4aee-45e3-b361-9e5972f6d4dd")
-		(property "Reference" "H4"
-			(at 23.622 278.384 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "MountingHole_Pad"
-			(at 21.5899 276.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_Pad"
-			(at 21.59 279.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 21.59 279.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole with connection"
-			(at 21.59 279.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "03c32233-670b-49f1-b956-545a2bff8029")
-		)
-		(instances
-			(project "Shield_VCU_Board"
-				(path "/4a8cb20d-5f30-4163-a2c8-18e2deeb65d3"
-					(reference "H4")
 					(unit 1)
 				)
 			)
@@ -32663,70 +32458,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 31.75 283.21 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "74d97823-1e36-4fe0-ab08-25855284403d")
-		(property "Reference" "#PWR017"
-			(at 31.75 289.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 31.877 287.6042 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 31.75 283.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 31.75 283.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 31.75 283.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "258950d4-b476-47bd-b4b2-b730d614e0d2")
-		)
-		(instances
-			(project "Shield_VCU_Board"
-				(path "/4a8cb20d-5f30-4163-a2c8-18e2deeb65d3"
-					(reference "#PWR017")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Small")
 		(at 504.19 175.26 180)
 		(unit 1)
@@ -33148,7 +32879,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm"
+		(property "Footprint" "Capacitor_SMD:CP_Elec_4x3.9"
 			(at 365.76 157.48 0)
 			(effects
 				(font
@@ -38212,70 +37943,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
-		(at 21.59 271.78 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "d2aa67dd-75b3-4109-a06c-bfc312899740")
-		(property "Reference" "H3"
-			(at 23.876 270.002 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "MountingHole_Car"
-			(at 31.75 265.176 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_Pad"
-			(at 21.59 271.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 21.59 271.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole with connection"
-			(at 21.59 271.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "6916c64f-d69e-4b44-96f7-65258d1cce92")
-		)
-		(instances
-			(project "Shield_VCU_Board"
-				(path "/4a8cb20d-5f30-4163-a2c8-18e2deeb65d3"
-					(reference "H3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 513.08 203.2 0)
 		(unit 1)
@@ -39871,73 +39538,6 @@
 			(project ""
 				(path "/4a8cb20d-5f30-4163-a2c8-18e2deeb65d3"
 					(reference "J9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
-		(at 41.91 279.4 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "ee4f691d-b5a4-444e-bfee-2a7920fe9271")
-		(property "Reference" "H1"
-			(at 38.862 277.876 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole_Pad"
-			(at 41.9101 281.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_Pad"
-			(at 41.91 279.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 41.91 279.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole with connection"
-			(at 41.91 279.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "aebb6c0f-e54e-475c-867f-5e97f499f365")
-		)
-		(instances
-			(project "Shield_VCU_Board"
-				(path "/4a8cb20d-5f30-4163-a2c8-18e2deeb65d3"
-					(reference "H1")
 					(unit 1)
 				)
 			)
