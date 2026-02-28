@@ -24922,7 +24922,6 @@
 		(length 2.54)
 		(shape round)
 		(at 59.69 241.3 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -24931,8 +24930,8 @@
 			(justify left bottom)
 		)
 		(uuid "430440a2-08fe-4b25-8961-f9286b222b04")
-		(property "Netclass" "PowerV"
-			(at 60.3885 238.76 0)
+		(property "Netclass" "12V"
+			(at 60.198 239.522 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30157,7 +30156,7 @@
 		(dnp no)
 		(uuid "3744946c-cf00-4f11-bc2c-3192c998041c")
 		(property "Reference" "R27"
-			(at 477.266 142.494 90)
+			(at 477.012 143.764 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30165,7 +30164,7 @@
 			)
 		)
 		(property "Value" "33R"
-			(at 485.394 142.494 90)
+			(at 485.902 143.51 90)
 			(effects
 				(font
 					(size 1.27 1.27)

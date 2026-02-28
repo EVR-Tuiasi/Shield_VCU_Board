@@ -525,7 +525,7 @@
     "net_colors": null,
     "netclass_assignments": {
       "+12V": [
-        "PowerV"
+        "12V"
       ],
       "3V3_7seg": [
         "PowerV"
@@ -548,6 +548,10 @@
       {
         "netclass": "Default",
         "pattern": "Standart"
+      },
+      {
+        "netclass": "12V",
+        "pattern": "Input"
       }
     ]
   },
