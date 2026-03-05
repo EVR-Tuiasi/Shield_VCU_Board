@@ -6086,23 +6086,25 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "J"
-				(at 0 50.8 0)
+			(property "Reference" "J11"
+				(at -1.524 50.292 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left)
 				)
 			)
-			(property "Value" "Conn_01x40_Socket"
-				(at 0 -53.34 0)
+			(property "Value" "Molex_connector_40pin"
+				(at 1.778 -5.588 90)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "Connector_FFC-FPC:Amphenol_F32Q-1A7x1-11040_1x40-1MP_P0.5mm_Horizontal"
 				(at 0 0 0)
 				(effects
 					(font
@@ -7126,7 +7128,7 @@
 							)
 						)
 					)
-					(number "1"
+					(number "40"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7144,7 +7146,7 @@
 							)
 						)
 					)
-					(number "2"
+					(number "39"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7162,7 +7164,7 @@
 							)
 						)
 					)
-					(number "3"
+					(number "38"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7180,7 +7182,7 @@
 							)
 						)
 					)
-					(number "4"
+					(number "37"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7198,7 +7200,7 @@
 							)
 						)
 					)
-					(number "5"
+					(number "36"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7216,7 +7218,7 @@
 							)
 						)
 					)
-					(number "6"
+					(number "35"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7234,7 +7236,7 @@
 							)
 						)
 					)
-					(number "7"
+					(number "34"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7252,7 +7254,7 @@
 							)
 						)
 					)
-					(number "8"
+					(number "33"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7270,7 +7272,7 @@
 							)
 						)
 					)
-					(number "9"
+					(number "32"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7288,7 +7290,7 @@
 							)
 						)
 					)
-					(number "10"
+					(number "31"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7306,7 +7308,7 @@
 							)
 						)
 					)
-					(number "11"
+					(number "30"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7324,7 +7326,7 @@
 							)
 						)
 					)
-					(number "12"
+					(number "29"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7342,7 +7344,7 @@
 							)
 						)
 					)
-					(number "13"
+					(number "28"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7360,7 +7362,7 @@
 							)
 						)
 					)
-					(number "14"
+					(number "27"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7378,7 +7380,7 @@
 							)
 						)
 					)
-					(number "15"
+					(number "26"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7396,7 +7398,7 @@
 							)
 						)
 					)
-					(number "16"
+					(number "25"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7414,7 +7416,7 @@
 							)
 						)
 					)
-					(number "17"
+					(number "24"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7432,7 +7434,7 @@
 							)
 						)
 					)
-					(number "18"
+					(number "23"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7450,7 +7452,7 @@
 							)
 						)
 					)
-					(number "19"
+					(number "22"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7468,7 +7470,7 @@
 							)
 						)
 					)
-					(number "20"
+					(number "21"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7486,7 +7488,7 @@
 							)
 						)
 					)
-					(number "21"
+					(number "20"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7504,7 +7506,7 @@
 							)
 						)
 					)
-					(number "22"
+					(number "19"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7522,7 +7524,7 @@
 							)
 						)
 					)
-					(number "23"
+					(number "18"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7540,7 +7542,7 @@
 							)
 						)
 					)
-					(number "24"
+					(number "17"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7558,7 +7560,7 @@
 							)
 						)
 					)
-					(number "25"
+					(number "16"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7576,7 +7578,7 @@
 							)
 						)
 					)
-					(number "26"
+					(number "15"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7594,7 +7596,7 @@
 							)
 						)
 					)
-					(number "27"
+					(number "14"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7612,7 +7614,7 @@
 							)
 						)
 					)
-					(number "28"
+					(number "13"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7630,7 +7632,7 @@
 							)
 						)
 					)
-					(number "29"
+					(number "12"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7648,7 +7650,7 @@
 							)
 						)
 					)
-					(number "30"
+					(number "11"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7666,7 +7668,7 @@
 							)
 						)
 					)
-					(number "31"
+					(number "10"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7684,7 +7686,7 @@
 							)
 						)
 					)
-					(number "32"
+					(number "9"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7702,7 +7704,7 @@
 							)
 						)
 					)
-					(number "33"
+					(number "8"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7720,7 +7722,7 @@
 							)
 						)
 					)
-					(number "34"
+					(number "7"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7738,7 +7740,7 @@
 							)
 						)
 					)
-					(number "35"
+					(number "6"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7756,7 +7758,7 @@
 							)
 						)
 					)
-					(number "36"
+					(number "5"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7774,7 +7776,7 @@
 							)
 						)
 					)
-					(number "37"
+					(number "4"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7792,7 +7794,7 @@
 							)
 						)
 					)
-					(number "38"
+					(number "3"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7810,7 +7812,7 @@
 							)
 						)
 					)
-					(number "39"
+					(number "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7828,7 +7830,7 @@
 							)
 						)
 					)
-					(number "40"
+					(number "1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -14344,6 +14346,12 @@
 		(uuid "04f5dfad-f435-466b-9bc8-43d889d8872f")
 	)
 	(junction
+		(at 50.8 248.92)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0abbb082-ba32-4e21-bb62-90211d81d9d7")
+	)
+	(junction
 		(at 312.42 370.84)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -14542,12 +14550,6 @@
 		(uuid "4168fdcc-d329-408e-9588-754d2cf0bdb1")
 	)
 	(junction
-		(at 31.75 279.4)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4282fa08-37fc-405c-9104-2518bdf38b5b")
-	)
-	(junction
 		(at 495.3 168.91)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -14686,12 +14688,6 @@
 		(uuid "654b070e-93b6-49bf-8654-58aae505c4a4")
 	)
 	(junction
-		(at 67.31 241.3)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "659f19c0-4426-4409-86ab-066ac0365151")
-	)
-	(junction
 		(at 307.34 222.25)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -14744,12 +14740,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "766eecea-f9e1-4b73-9680-269e3d0a18f7")
-	)
-	(junction
-		(at 31.75 271.78)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "787f44ab-3c3f-4835-9223-7a68795764cf")
 	)
 	(junction
 		(at 504.19 168.91)
@@ -14852,6 +14842,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9780697f-7fa2-4008-a2a6-ff6e2d854647")
+	)
+	(junction
+		(at 50.8 241.3)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "98d4e83b-640e-4528-8ca8-15cc7ce24cb0")
 	)
 	(junction
 		(at 508 168.91)
@@ -15134,6 +15130,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d28e7809-7479-4cfa-9372-760c8e267990")
+	)
+	(junction
+		(at 67.31 241.3)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d53f8954-29bb-4b4d-b28b-7e20f0fc8a8a")
 	)
 	(junction
 		(at 306.07 248.92)
@@ -16054,16 +16056,6 @@
 			(type default)
 		)
 		(uuid "0680000c-ee1b-40b7-97b7-1e34c36f3e5b")
-	)
-	(wire
-		(pts
-			(xy 57.15 241.3) (xy 67.31 241.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "069b87d4-b03f-451d-9007-638f58eb58f3")
 	)
 	(wire
 		(pts
@@ -18177,6 +18169,16 @@
 	)
 	(wire
 		(pts
+			(xy 67.31 248.92) (xy 67.31 252.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4cd56a4e-9baa-43e9-a8e0-ba67bc2fd055")
+	)
+	(wire
+		(pts
 			(xy 68.58 274.32) (xy 71.12 274.32)
 		)
 		(stroke
@@ -18608,13 +18610,13 @@
 	)
 	(wire
 		(pts
-			(xy 31.75 271.78) (xy 31.75 279.4)
+			(xy 24.13 243.84) (xy 30.48 243.84)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "5b5a3c00-87df-4452-b6e8-40f4564b178c")
+		(uuid "5b813819-6dfa-4680-86d3-97d8eda6cd69")
 	)
 	(wire
 		(pts
@@ -18795,16 +18797,6 @@
 			(type default)
 		)
 		(uuid "61e0804c-d2eb-4c4e-89e0-d54c389106ba")
-	)
-	(wire
-		(pts
-			(xy 31.75 279.4) (xy 31.75 283.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "61f01f44-0b63-4c3f-b2eb-44e651b4badb")
 	)
 	(wire
 		(pts
@@ -19379,7 +19371,7 @@
 	)
 	(wire
 		(pts
-			(xy 26.67 241.3) (xy 40.64 241.3)
+			(xy 24.13 241.3) (xy 40.64 241.3)
 		)
 		(stroke
 			(width 0)
@@ -20402,16 +20394,6 @@
 	)
 	(wire
 		(pts
-			(xy 24.13 271.78) (xy 31.75 271.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "90479214-268d-4f65-9439-26b766905353")
-	)
-	(wire
-		(pts
 			(xy 426.72 91.44) (xy 426.72 80.01)
 		)
 		(stroke
@@ -20569,6 +20551,16 @@
 			(type default)
 		)
 		(uuid "9695c855-09d6-435f-b6f7-4600ec76a90f")
+	)
+	(wire
+		(pts
+			(xy 45.72 241.3) (xy 50.8 241.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "97231e6e-6156-4982-bcc7-7ada1f29d974")
 	)
 	(wire
 		(pts
@@ -21113,6 +21105,16 @@
 	)
 	(wire
 		(pts
+			(xy 50.8 248.92) (xy 67.31 248.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a7e8b076-564f-4c98-b4b7-a88b80b4ab63")
+	)
+	(wire
+		(pts
 			(xy 187.96 254) (xy 187.96 255.27)
 		)
 		(stroke
@@ -21626,6 +21628,16 @@
 	)
 	(wire
 		(pts
+			(xy 30.48 248.92) (xy 30.48 243.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b5ade5e6-6693-4a6e-b25e-5137a771a2c1")
+	)
+	(wire
+		(pts
 			(xy 542.29 180.34) (xy 548.64 180.34)
 		)
 		(stroke
@@ -21666,16 +21678,6 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 241.3) (xy 49.53 241.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b6d2afe9-3ac3-4b70-aa1c-a1b62e223566")
-	)
-	(wire
-		(pts
 			(xy 314.96 158.75) (xy 304.8 158.75)
 		)
 		(stroke
@@ -21703,16 +21705,6 @@
 			(type default)
 		)
 		(uuid "b7af41d9-0ff4-4c75-aa3f-e44d96ffb979")
-	)
-	(wire
-		(pts
-			(xy 67.31 243.84) (xy 67.31 246.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b7b93e03-d7ec-41bf-bf43-ae2259c1b760")
 	)
 	(polyline
 		(pts
@@ -22155,16 +22147,6 @@
 			(type default)
 		)
 		(uuid "c7af8cce-9866-415a-b7e2-886f3c46a358")
-	)
-	(wire
-		(pts
-			(xy 31.75 271.78) (xy 39.37 271.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c7b43764-83fc-4c5a-b1e2-097c891f56bd")
 	)
 	(wire
 		(pts
@@ -23190,6 +23172,16 @@
 	)
 	(wire
 		(pts
+			(xy 50.8 241.3) (xy 67.31 241.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e9875053-c03b-44aa-b717-8405ff518bcc")
+	)
+	(wire
+		(pts
 			(xy 314.96 153.67) (xy 302.26 153.67)
 		)
 		(stroke
@@ -23380,7 +23372,7 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 243.84) (xy 26.67 243.84)
+			(xy 30.48 248.92) (xy 50.8 248.92)
 		)
 		(stroke
 			(width 0)
@@ -23681,16 +23673,6 @@
 	)
 	(wire
 		(pts
-			(xy 24.13 279.4) (xy 31.75 279.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f83b584a-d62c-4d78-a8e6-8aa45a1db794")
-	)
-	(wire
-		(pts
 			(xy 200.66 332.74) (xy 200.66 335.28)
 		)
 		(stroke
@@ -23889,16 +23871,6 @@
 			(type default)
 		)
 		(uuid "fcd001d0-42f5-4988-bf7f-699500839821")
-	)
-	(wire
-		(pts
-			(xy 31.75 279.4) (xy 39.37 279.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fd308676-216b-489a-9b50-eb250aed5fd6")
 	)
 	(wire
 		(pts
@@ -28011,7 +27983,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_Cat16-4"
+		(property "Footprint" "Resistor_SMD:R_Array_Convex_4x0402"
 			(at 481.33 75.565 90)
 			(effects
 				(font
@@ -28418,7 +28390,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_Cat16-4"
+		(property "Footprint" "Resistor_SMD:R_Array_Convex_4x0402"
 			(at 481.33 128.905 90)
 			(effects
 				(font
@@ -28542,73 +28514,6 @@
 			(project "Shield_VCU_Board"
 				(path "/4a8cb20d-5f30-4163-a2c8-18e2deeb65d3"
 					(reference "C44")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
-		(at 41.91 271.78 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "234a1176-7650-4af8-9bb0-0a847cf40b9e")
-		(property "Reference" "H2"
-			(at 38.608 270.51 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole_Pad"
-			(at 41.9101 274.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_Pad"
-			(at 41.91 271.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 41.91 271.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole with connection"
-			(at 41.91 271.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e28e7fe3-ec54-4de1-aece-0493ca096cb9")
-		)
-		(instances
-			(project "Shield_VCU_Board"
-				(path "/4a8cb20d-5f30-4163-a2c8-18e2deeb65d3"
-					(reference "H2")
 					(unit 1)
 				)
 			)
@@ -30736,72 +30641,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
-		(at 21.59 279.4 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "4101f6c0-4aee-45e3-b361-9e5972f6d4dd")
-		(property "Reference" "H4"
-			(at 23.622 278.384 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "MountingHole_Pad"
-			(at 21.5899 276.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_Pad"
-			(at 21.59 279.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 21.59 279.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole with connection"
-			(at 21.59 279.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "03c32233-670b-49f1-b956-545a2bff8029")
-		)
-		(instances
-			(project "Shield_VCU_Board"
-				(path "/4a8cb20d-5f30-4163-a2c8-18e2deeb65d3"
-					(reference "H4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 254 354.33 0)
 		(unit 1)
@@ -32872,7 +32711,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 67.31 246.38 0)
+		(at 67.31 252.73 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -32880,7 +32719,7 @@
 		(dnp no)
 		(uuid "71ea4ef9-e3ec-4931-a4de-8e8121d6eaf4")
 		(property "Reference" "#PWR047"
-			(at 67.31 252.73 0)
+			(at 67.31 259.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32889,7 +32728,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 69.596 246.634 0)
+			(at 69.596 252.984 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32897,7 +32736,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 67.31 246.38 0)
+			(at 67.31 252.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32906,7 +32745,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 67.31 246.38 0)
+			(at 67.31 252.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32915,7 +32754,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 67.31 246.38 0)
+			(at 67.31 252.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33065,70 +32904,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 31.75 283.21 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "74d97823-1e36-4fe0-ab08-25855284403d")
-		(property "Reference" "#PWR017"
-			(at 31.75 289.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 31.877 287.6042 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 31.75 283.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 31.75 283.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 31.75 283.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "258950d4-b476-47bd-b4b2-b730d614e0d2")
-		)
-		(instances
-			(project "Shield_VCU_Board"
-				(path "/4a8cb20d-5f30-4163-a2c8-18e2deeb65d3"
-					(reference "#PWR017")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Small")
 		(at 504.19 175.26 180)
 		(unit 1)
@@ -33196,7 +32971,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x02_Socket")
-		(at 21.59 243.84 180)
+		(at 19.05 243.84 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -33204,7 +32979,7 @@
 		(dnp no)
 		(uuid "759b0427-1657-43dd-9ad7-a809ea5b131e")
 		(property "Reference" "J10"
-			(at 18.034 242.316 0)
+			(at 15.494 242.316 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33213,7 +32988,7 @@
 			)
 		)
 		(property "Value" "Main_Supply"
-			(at 21.082 238.506 0)
+			(at 18.542 238.506 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33222,7 +32997,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Molex:Molex_KK-396_A-41791-0002_1x02_P3.96mm_Vertical"
-			(at 21.59 243.84 0)
+			(at 19.05 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33231,7 +33006,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 21.59 243.84 0)
+			(at 19.05 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33240,7 +33015,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
-			(at 21.59 243.84 0)
+			(at 19.05 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33288,7 +33063,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_Cat16-4"
+		(property "Footprint" "Resistor_SMD:R_Array_Convex_4x0402"
 			(at 481.33 65.405 90)
 			(effects
 				(font
@@ -33439,7 +33214,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:CP_Elec_4x5.4"
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-2012-12_Kemet-R_HandSolder"
 			(at 365.76 157.48 0)
 			(effects
 				(font
@@ -34417,7 +34192,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_Cat16-4"
+		(property "Footprint" "Resistor_SMD:R_Array_Convex_4x0402"
 			(at 481.33 106.045 90)
 			(effects
 				(font
@@ -34783,7 +34558,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_Cat16-4"
+		(property "Footprint" "Resistor_SMD:R_Array_Convex_4x0402"
 			(at 481.33 116.205 90)
 			(effects
 				(font
@@ -35003,7 +34778,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_Cat16-4"
+		(property "Footprint" "Resistor_SMD:R_Array_Convex_4x0402"
 			(at 481.33 85.725 90)
 			(effects
 				(font
@@ -38375,70 +38150,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
-		(at 21.59 271.78 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "d2aa67dd-75b3-4109-a06c-bfc312899740")
-		(property "Reference" "H3"
-			(at 23.876 270.002 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "MountingHole_Car"
-			(at 31.75 265.176 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_Pad"
-			(at 21.59 271.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 21.59 271.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole with connection"
-			(at 21.59 271.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "6916c64f-d69e-4b44-96f7-65258d1cce92")
-		)
-		(instances
-			(project "Shield_VCU_Board"
-				(path "/4a8cb20d-5f30-4163-a2c8-18e2deeb65d3"
-					(reference "H3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 513.08 203.2 0)
 		(unit 1)
@@ -39750,7 +39461,7 @@
 	)
 	(symbol
 		(lib_id "Diode:MBRS340")
-		(at 53.34 241.3 180)
+		(at 50.8 245.11 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -39759,23 +39470,25 @@
 		(fields_autoplaced yes)
 		(uuid "e4bb6a54-038d-45d2-80f7-cc7e6e73d51c")
 		(property "Reference" "D15"
-			(at 53.6575 234.95 0)
+			(at 53.34 243.5224 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Value" "MBRS340"
-			(at 53.6575 237.49 0)
+			(at 53.34 246.0624 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SMC"
-			(at 53.34 232.664 0)
+			(at 42.164 245.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39784,7 +39497,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/download/data-sheet/pdf/mbrs340t3-d.pdf"
-			(at 53.34 234.696 0)
+			(at 44.196 245.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39793,7 +39506,7 @@
 			)
 		)
 		(property "Description" "40V 3A Schottky Barrier Rectifier Diode, SMC (DO-214AB)"
-			(at 53.34 236.728 0)
+			(at 46.228 245.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40152,73 +39865,6 @@
 			(project ""
 				(path "/4a8cb20d-5f30-4163-a2c8-18e2deeb65d3"
 					(reference "J9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
-		(at 41.91 279.4 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "ee4f691d-b5a4-444e-bfee-2a7920fe9271")
-		(property "Reference" "H1"
-			(at 38.862 277.876 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole_Pad"
-			(at 41.9101 281.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_Pad"
-			(at 41.91 279.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 41.91 279.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole with connection"
-			(at 41.91 279.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "aebb6c0f-e54e-475c-867f-5e97f499f365")
-		)
-		(instances
-			(project "Shield_VCU_Board"
-				(path "/4a8cb20d-5f30-4163-a2c8-18e2deeb65d3"
-					(reference "H1")
 					(unit 1)
 				)
 			)
@@ -40786,7 +40432,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_Cat16-4"
+		(property "Footprint" "Resistor_SMD:R_Array_Convex_4x0402"
 			(at 481.33 95.885 90)
 			(effects
 				(font
