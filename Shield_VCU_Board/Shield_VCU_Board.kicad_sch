@@ -28953,7 +28953,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 74.93 287.02 0)
 			(effects
 				(font
@@ -30554,7 +30554,7 @@
 				)
 			)
 		)
-		(property "Value" "660"
+		(property "Value" "1k"
 			(at 325.12 341.122 90)
 			(effects
 				(font
@@ -34349,7 +34349,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 74.93 274.32 0)
 			(effects
 				(font
@@ -36011,7 +36011,7 @@
 				)
 			)
 		)
-		(property "Value" "660"
+		(property "Value" "1k"
 			(at 325.12 332.232 90)
 			(effects
 				(font
@@ -36899,7 +36899,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 74.93 300.99 0)
 			(effects
 				(font
@@ -37178,7 +37178,7 @@
 				)
 			)
 		)
-		(property "Value" "660"
+		(property "Value" "1k"
 			(at 325.12 350.012 90)
 			(effects
 				(font
@@ -38623,7 +38623,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 74.93 313.69 0)
 			(effects
 				(font
@@ -40137,7 +40137,7 @@
 				)
 			)
 		)
-		(property "Value" "660"
+		(property "Value" "1k"
 			(at 325.12 323.342 90)
 			(effects
 				(font
