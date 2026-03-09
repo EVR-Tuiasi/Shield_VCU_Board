@@ -26752,7 +26752,7 @@
 		(dnp no)
 		(uuid "0aa17d1a-5d24-499c-a972-6656559c09ab")
 		(property "Reference" "RSET2"
-			(at 322.072 391.668 0)
+			(at 322.834 391.668 0)
 			(effects
 				(font
 					(size 1.27 1.27)
