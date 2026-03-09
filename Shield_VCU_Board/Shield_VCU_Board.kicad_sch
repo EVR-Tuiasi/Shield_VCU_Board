@@ -6795,7 +6795,7 @@
 							)
 						)
 					)
-					(number "1"
+					(number "40"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -6813,7 +6813,7 @@
 							)
 						)
 					)
-					(number "2"
+					(number "39"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -6831,7 +6831,7 @@
 							)
 						)
 					)
-					(number "3"
+					(number "38"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -6849,7 +6849,7 @@
 							)
 						)
 					)
-					(number "4"
+					(number "37"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -6867,7 +6867,7 @@
 							)
 						)
 					)
-					(number "5"
+					(number "36"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -6885,7 +6885,7 @@
 							)
 						)
 					)
-					(number "6"
+					(number "35"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -6903,7 +6903,7 @@
 							)
 						)
 					)
-					(number "7"
+					(number "34"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -6921,7 +6921,7 @@
 							)
 						)
 					)
-					(number "8"
+					(number "33"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -6939,7 +6939,7 @@
 							)
 						)
 					)
-					(number "9"
+					(number "32"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -6957,7 +6957,7 @@
 							)
 						)
 					)
-					(number "10"
+					(number "31"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -6975,7 +6975,7 @@
 							)
 						)
 					)
-					(number "11"
+					(number "30"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -6993,7 +6993,7 @@
 							)
 						)
 					)
-					(number "12"
+					(number "29"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7011,7 +7011,7 @@
 							)
 						)
 					)
-					(number "13"
+					(number "28"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7029,7 +7029,7 @@
 							)
 						)
 					)
-					(number "14"
+					(number "27"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7047,7 +7047,7 @@
 							)
 						)
 					)
-					(number "15"
+					(number "26"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7065,7 +7065,7 @@
 							)
 						)
 					)
-					(number "16"
+					(number "25"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7083,7 +7083,7 @@
 							)
 						)
 					)
-					(number "17"
+					(number "24"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7101,7 +7101,7 @@
 							)
 						)
 					)
-					(number "18"
+					(number "23"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7119,7 +7119,7 @@
 							)
 						)
 					)
-					(number "19"
+					(number "22"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7137,7 +7137,7 @@
 							)
 						)
 					)
-					(number "20"
+					(number "21"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7155,7 +7155,7 @@
 							)
 						)
 					)
-					(number "21"
+					(number "20"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7173,7 +7173,7 @@
 							)
 						)
 					)
-					(number "22"
+					(number "19"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7191,7 +7191,7 @@
 							)
 						)
 					)
-					(number "23"
+					(number "18"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7209,7 +7209,7 @@
 							)
 						)
 					)
-					(number "24"
+					(number "17"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7227,7 +7227,7 @@
 							)
 						)
 					)
-					(number "25"
+					(number "16"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7245,7 +7245,7 @@
 							)
 						)
 					)
-					(number "26"
+					(number "15"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7263,7 +7263,7 @@
 							)
 						)
 					)
-					(number "27"
+					(number "14"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7281,7 +7281,7 @@
 							)
 						)
 					)
-					(number "28"
+					(number "13"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7299,7 +7299,7 @@
 							)
 						)
 					)
-					(number "29"
+					(number "12"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7317,7 +7317,7 @@
 							)
 						)
 					)
-					(number "30"
+					(number "11"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7335,7 +7335,7 @@
 							)
 						)
 					)
-					(number "31"
+					(number "10"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7353,7 +7353,7 @@
 							)
 						)
 					)
-					(number "32"
+					(number "9"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7371,7 +7371,7 @@
 							)
 						)
 					)
-					(number "33"
+					(number "8"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7389,7 +7389,7 @@
 							)
 						)
 					)
-					(number "34"
+					(number "7"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7407,7 +7407,7 @@
 							)
 						)
 					)
-					(number "35"
+					(number "6"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7425,7 +7425,7 @@
 							)
 						)
 					)
-					(number "36"
+					(number "5"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7443,7 +7443,7 @@
 							)
 						)
 					)
-					(number "37"
+					(number "4"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7461,7 +7461,7 @@
 							)
 						)
 					)
-					(number "38"
+					(number "3"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7479,7 +7479,7 @@
 							)
 						)
 					)
-					(number "39"
+					(number "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7497,7 +7497,7 @@
 							)
 						)
 					)
-					(number "40"
+					(number "1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7508,7 +7508,7 @@
 				(pin passive line
 					(at -2.54 -53.34 0)
 					(length 2.54)
-					(name "GND"
+					(name "MP"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -29139,7 +29139,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "2a45b903-a261-4c40-aceb-647a06b4b353")
 		(property "Reference" "J1"
 			(at 120.65 133.35 0)
@@ -29918,7 +29918,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "3404f1b8-e8d4-4f88-9bb7-2b3f3e146c2e")
 		(property "Reference" "J6"
 			(at 120.65 161.544 0)
@@ -31296,7 +31296,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "4e8c41d2-9ec4-4c0f-b76d-b5beb02b960a")
 		(property "Reference" "J5"
 			(at 82.55 160.274 0)
@@ -38744,7 +38744,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "d824a6c3-ef0f-4ceb-881a-22261ecd5957")
 		(property "Reference" "J4"
 			(at 82.55 135.89 0)
