@@ -14438,7 +14438,7 @@
 	)
 	(text "I2C"
 		(exclude_from_sim no)
-		(at 241.3 260.35 0)
+		(at 243.586 263.906 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15388,12 +15388,6 @@
 		(uuid "e41a65d8-a906-40ea-a818-f54b60d4b41b")
 	)
 	(junction
-		(at 255.27 261.62)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e76de1e3-bc72-461a-b0bc-7793390a134b")
-	)
-	(junction
 		(at 388.62 384.81)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -15690,6 +15684,10 @@
 		(uuid "6bb585ee-199f-44a8-a9fd-3cf44164ddb9")
 	)
 	(no_connect
+		(at 259.08 261.62)
+		(uuid "6d416de3-a99a-473a-a32a-b3b3e9d2ef99")
+	)
+	(no_connect
 		(at 330.2 107.95)
 		(uuid "6e883c99-0194-46aa-8a13-a6c0934cd60c")
 	)
@@ -15864,6 +15862,10 @@
 	(no_connect
 		(at 330.2 137.16)
 		(uuid "d94c5bd6-5a48-402a-9ee5-5a9e6edefd03")
+	)
+	(no_connect
+		(at 114.3 125.73)
+		(uuid "e1dc539b-2f63-48ea-bd77-3470a09487f8")
 	)
 	(no_connect
 		(at 88.9 185.42)
@@ -17203,16 +17205,6 @@
 	)
 	(wire
 		(pts
-			(xy 236.22 274.32) (xy 255.27 274.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "26296e24-e970-4230-89f5-d152407375bb")
-	)
-	(wire
-		(pts
 			(xy 170.18 254) (xy 170.18 255.27)
 		)
 		(stroke
@@ -17543,16 +17535,6 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 125.73) (xy 114.3 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "32d86335-f366-48f9-a2a4-ebd6032112a1")
-	)
-	(wire
-		(pts
 			(xy 187.96 262.89) (xy 179.07 262.89)
 		)
 		(stroke
@@ -17720,16 +17702,6 @@
 			(type default)
 		)
 		(uuid "38f1e983-3f68-4191-b390-4dee97d8e92f")
-	)
-	(wire
-		(pts
-			(xy 153.67 128.27) (xy 110.49 128.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "38f3171e-68b9-41d6-a813-16ce3caf90dc")
 	)
 	(wire
 		(pts
@@ -20338,16 +20310,6 @@
 	)
 	(wire
 		(pts
-			(xy 259.08 261.62) (xy 255.27 261.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8a83a6d9-9ffb-4bb5-844e-8b3734c968a6")
-	)
-	(wire
-		(pts
 			(xy 499.11 355.6) (xy 499.11 360.68)
 		)
 		(stroke
@@ -21923,16 +21885,6 @@
 	)
 	(wire
 		(pts
-			(xy 255.27 274.32) (xy 255.27 261.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bb8fd6b0-e6b8-4017-bac0-653f6f67656d")
-	)
-	(wire
-		(pts
 			(xy 378.46 71.12) (xy 378.46 73.66)
 		)
 		(stroke
@@ -22565,16 +22517,6 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 128.27) (xy 110.49 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d051f34c-5574-4657-aefd-a543b7ff7dd8")
-	)
-	(wire
-		(pts
 			(xy 529.59 306.07) (xy 515.62 306.07)
 		)
 		(stroke
@@ -22823,16 +22765,6 @@
 			(type default)
 		)
 		(uuid "d7ed15fd-19ba-4f9b-a44c-ada1922a9daa")
-	)
-	(wire
-		(pts
-			(xy 255.27 261.62) (xy 246.38 261.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d823c31e-23cd-4481-a44b-3093ff0bd829")
 	)
 	(wire
 		(pts
@@ -24336,26 +24268,6 @@
 			)
 		)
 	)
-	(global_label "7S_NXP_IRQ"
-		(shape input)
-		(at 246.38 261.62 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "36240bc9-d293-4b19-be41-ffa51e5e1514")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 246.38 261.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "LED4_PTA25"
 		(shape input)
 		(at 309.88 347.98 180)
@@ -25008,26 +24920,6 @@
 		(uuid "dbebaa12-a645-4153-9653-abc79649958c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 243.84 223.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "7S_NXP_IRQ"
-		(shape input)
-		(at 153.67 128.27 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "dde831d1-d1f0-46a1-875f-9fa019fff4ed")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 153.67 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36027,73 +35919,6 @@
 			(project "Shield_VCU_Board"
 				(path "/4a8cb20d-5f30-4163-a2c8-18e2deeb65d3"
 					(reference "C10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 236.22 274.32 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "a5e3e8fe-18e8-4fa8-9b10-2f806d284101")
-		(property "Reference" "IRQ7"
-			(at 238.506 273.304 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 242.57 271.526 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 236.22 269.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 236.22 269.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 236.22 274.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "cb7cd15b-b7a5-459b-976c-961d5d316b7e")
-		)
-		(instances
-			(project "Shield_VCU_Board"
-				(path "/4a8cb20d-5f30-4163-a2c8-18e2deeb65d3"
-					(reference "IRQ7")
 					(unit 1)
 				)
 			)
