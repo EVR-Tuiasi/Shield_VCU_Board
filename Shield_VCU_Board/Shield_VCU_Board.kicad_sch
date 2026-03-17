@@ -28053,10 +28053,13 @@
 		(dnp no)
 		(uuid "1ac6dab1-9ece-40af-83da-4815aad44576")
 		(property "Reference" "RN2"
-			(at 474.472 81.534 90)
+			(at 475.742 82.804 0)
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 143 76 255 0.47)
 				)
 			)
 		)
@@ -28460,10 +28463,13 @@
 		(dnp no)
 		(uuid "20647513-5f6e-4e1e-a8b8-706e37fad87d")
 		(property "Reference" "RN7"
-			(at 474.472 134.874 90)
+			(at 475.488 137.414 0)
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 143 76 255 0.47)
 				)
 			)
 		)
@@ -33275,10 +33281,13 @@
 		(dnp no)
 		(uuid "772dccb6-6afd-4e72-a307-145960b2ecbe")
 		(property "Reference" "RN1"
-			(at 474.472 71.374 90)
+			(at 475.488 73.152 0)
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 143 76 255 0.47)
 				)
 			)
 		)
@@ -34403,10 +34412,13 @@
 		(dnp no)
 		(uuid "863f7cbc-7e2d-4e4e-8899-d46590ac539f")
 		(property "Reference" "RN5"
-			(at 474.472 112.014 90)
+			(at 475.996 112.776 0)
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 143 76 255 0.47)
 				)
 			)
 		)
@@ -34833,10 +34845,13 @@
 		(dnp no)
 		(uuid "9496c526-144f-43b8-894f-fa49eb49dced")
 		(property "Reference" "RN6"
-			(at 474.218 122.174 90)
+			(at 475.742 122.682 0)
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 143 76 255 0.47)
 				)
 			)
 		)
@@ -34983,10 +34998,13 @@
 		(dnp no)
 		(uuid "99220634-ad0c-42c8-8757-fb9c28973800")
 		(property "Reference" "RN3"
-			(at 474.472 91.694 90)
+			(at 475.996 92.456 0)
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 143 76 255 0.47)
 				)
 			)
 		)
@@ -40527,10 +40545,13 @@
 		(dnp no)
 		(uuid "f60f0964-fb58-4618-9da6-86ce16a3880f")
 		(property "Reference" "RN4"
-			(at 474.472 101.854 90)
+			(at 475.996 102.362 0)
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 143 76 255 0.47)
 				)
 			)
 		)
