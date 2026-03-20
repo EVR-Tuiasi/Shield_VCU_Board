@@ -34821,7 +34821,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical_SMD_Pin1Left"
+		(property "Footprint" "Connector_Molex:Molex_KK-396_A-41791-0002_1x02_P3.96mm_Vertical"
 			(at 547.37 325.12 0)
 			(effects
 				(font
