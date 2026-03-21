@@ -10500,6 +10500,132 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Device:NetTie_2"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom no)
+			(on_board yes)
+			(property "Reference" "NT"
+				(at 0 1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "NetTie_2"
+				(at 0 -1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Net tie, 2 pins"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "net tie short"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Net*Tie*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "NetTie_2_0_1"
+				(polyline
+					(pts
+						(xy -1.27 0) (xy 1.27 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "NetTie_2_1_1"
+				(pin passive line
+					(at -2.54 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Device:R_Pack04"
 			(pin_names
 				(offset 0)
@@ -17804,6 +17930,16 @@
 	)
 	(wire
 		(pts
+			(xy 24.13 271.78) (xy 29.21 271.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3a3bddf1-4ba3-4619-9918-74ec2c10110f")
+	)
+	(wire
+		(pts
 			(xy 373.38 203.2) (xy 373.38 204.47)
 		)
 		(stroke
@@ -18111,6 +18247,16 @@
 			(type default)
 		)
 		(uuid "45de8dd2-caa7-4295-a638-bd7855cae879")
+	)
+	(wire
+		(pts
+			(xy 38.1 271.78) (xy 38.1 275.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4633f020-ad9e-499c-b68d-8373c528fda9")
 	)
 	(wire
 		(pts
@@ -21572,6 +21718,16 @@
 	)
 	(wire
 		(pts
+			(xy 34.29 271.78) (xy 38.1 271.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b5bb1758-bee1-4a87-9dd3-3f47ea8f86f2")
+	)
+	(wire
+		(pts
 			(xy 400.05 384.81) (xy 400.05 387.35)
 		)
 		(stroke
@@ -22744,6 +22900,16 @@
 			(type default)
 		)
 		(uuid "d9af59d7-64e3-48b7-be01-77fa026b46a7")
+	)
+	(wire
+		(pts
+			(xy 24.13 275.59) (xy 24.13 271.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d9b13e08-1539-4059-8a6a-300943b23b12")
 	)
 	(wire
 		(pts
@@ -32888,6 +33054,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:NetTie_2")
+		(at 31.75 271.78 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5dd2e998-4381-4ad3-9d57-57b52056fd56")
+		(property "Reference" "NT1"
+			(at 31.75 266.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "NetTie_2"
+			(at 31.75 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "NetTie:NetTie-2_SMD_Pad2.0mm"
+			(at 31.75 271.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 31.75 271.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Net tie, 2 pins"
+			(at 31.75 271.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2b4e33d2-d4e7-4f62-b42c-40026f56543c")
+		)
+		(pin "2"
+			(uuid "f3dccb4d-66fc-4ea8-bb8f-964148f83323")
+		)
+		(instances
+			(project ""
+				(path "/4a8cb20d-5f30-4163-a2c8-18e2deeb65d3"
+					(reference "NT1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 187.96 257.81 0)
 		(unit 1)
@@ -33742,6 +33976,70 @@
 			(project "Shield_VCU_Board"
 				(path "/4a8cb20d-5f30-4163-a2c8-18e2deeb65d3"
 					(reference "R52")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 38.1 275.59 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "72cd5177-7cb8-4f6a-9bbb-66a6ea50a573")
+		(property "Reference" "#PWR033"
+			(at 38.1 281.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 40.386 275.844 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 38.1 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 38.1 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 38.1 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "c66739ec-9ae7-49b1-99a1-21424f6f28e0")
+		)
+		(instances
+			(project "Shield_VCU_Board"
+				(path "/4a8cb20d-5f30-4163-a2c8-18e2deeb65d3"
+					(reference "#PWR033")
 					(unit 1)
 				)
 			)
@@ -40578,6 +40876,70 @@
 			(project "Shield_VCU_Board"
 				(path "/4a8cb20d-5f30-4163-a2c8-18e2deeb65d3"
 					(reference "D7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 24.13 275.59 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e6f30830-86b3-4036-ac36-9186ad46c5e2")
+		(property "Reference" "#PWR032"
+			(at 24.13 281.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 26.416 275.844 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 24.13 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 24.13 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 24.13 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "b18b6c44-e4bb-483e-9adb-f8b1a24060f3")
+		)
+		(instances
+			(project "Shield_VCU_Board"
+				(path "/4a8cb20d-5f30-4163-a2c8-18e2deeb65d3"
+					(reference "#PWR032")
 					(unit 1)
 				)
 			)
