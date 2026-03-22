@@ -35762,7 +35762,7 @@
 			)
 		)
 		(property "Value" "3V3_DSPL"
-			(at 427.101 198.8058 0)
+			(at 426.466 199.136 0)
 			(effects
 				(font
 					(size 1.27 1.27)
