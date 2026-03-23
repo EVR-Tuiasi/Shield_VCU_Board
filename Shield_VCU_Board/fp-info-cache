@@ -1,4 +1,4 @@
-27222564742212791
+27224339030137301
 ALibrary
 Amphenol_F32Q-1A7x1-11040_1x40-1MP_P0.5mm_Horizontal_Flip
 Amphenol F32Q/T FPC connector, 40 top-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32q-f32t.pdf
@@ -6,6 +6,13 @@ F32T
 0
 42
 41
+ALibrary
+JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical_GHST
+JST PH series connector, B2B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator
+connector JST PH vertical
+0
+2
+2
 ALibrary
 foot
 

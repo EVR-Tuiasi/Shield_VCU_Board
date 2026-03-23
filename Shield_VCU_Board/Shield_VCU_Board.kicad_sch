@@ -35557,7 +35557,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_Molex:Molex_KK-396_A-41791-0002_1x02_P3.96mm_Vertical"
+		(property "Footprint" "ALibrary:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical_GHST"
 			(at 547.37 325.12 0)
 			(effects
 				(font
@@ -39106,7 +39106,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.00mm:PinSocket_2x01_P2.00mm_Vertical_SMD"
+		(property "Footprint" "ALibrary:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical_GHST"
 			(at 93.98 66.04 0)
 			(effects
 				(font
