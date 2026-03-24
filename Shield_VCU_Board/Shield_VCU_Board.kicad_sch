@@ -17910,7 +17910,7 @@
 	)
 	(wire
 		(pts
-			(xy 24.13 271.78) (xy 29.21 271.78)
+			(xy 24.13 271.78) (xy 27.94 271.78)
 		)
 		(stroke
 			(width 0)
@@ -21648,7 +21648,7 @@
 	)
 	(wire
 		(pts
-			(xy 34.29 271.78) (xy 38.1 271.78)
+			(xy 33.02 271.78) (xy 38.1 271.78)
 		)
 		(stroke
 			(width 0)
@@ -32975,7 +32975,7 @@
 	)
 	(symbol
 		(lib_id "Device:NetTie_2")
-		(at 31.75 271.78 0)
+		(at 30.48 271.78 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -32984,15 +32984,15 @@
 		(fields_autoplaced yes)
 		(uuid "5dd2e998-4381-4ad3-9d57-57b52056fd56")
 		(property "Reference" "NT1"
-			(at 31.75 266.7 0)
+			(at 30.48 266.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "NetTie_2"
-			(at 31.75 269.24 0)
+		(property "Value" "12VTie"
+			(at 30.48 269.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33000,7 +33000,7 @@
 			)
 		)
 		(property "Footprint" "NetTie:NetTie-2_SMD_Pad2.0mm"
-			(at 31.75 271.78 0)
+			(at 30.48 271.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33009,7 +33009,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 31.75 271.78 0)
+			(at 30.48 271.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33018,7 +33018,7 @@
 			)
 		)
 		(property "Description" "Net tie, 2 pins"
-			(at 31.75 271.78 0)
+			(at 30.48 271.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34122,7 +34122,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_Molex:Molex_KK-396_A-41791-0002_1x02_P3.96mm_Vertical"
+		(property "Footprint" "ALibrary:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical_GHST"
 			(at 19.05 243.84 0)
 			(effects
 				(font
