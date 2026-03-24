@@ -524,23 +524,7 @@
       "version": 4
     },
     "net_colors": null,
-    "netclass_assignments": {
-      "+12V": [
-        "12V"
-      ],
-      "3V3_7seg": [
-        "PowerV"
-      ],
-      "3V3_AUD": [
-        "PowerV"
-      ],
-      "3V3_DSPL": [
-        "PowerV"
-      ],
-      "5V_BKLT": [
-        "PowerV"
-      ]
-    },
+    "netclass_assignments": null,
     "netclass_patterns": [
       {
         "netclass": "PowerV",
@@ -564,7 +548,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "Shield_VCU_Board.step",
+      "step": "C:/Users/saint/OneDrive/Рабочий стол/Shield_VCU_Board.step",
       "svg": "",
       "vrml": ""
     },

@@ -25436,162 +25436,6 @@
 			)
 		)
 	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape round)
-		(at 59.69 241.3 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 255 111 53 1)
-			)
-			(justify left bottom)
-		)
-		(uuid "430440a2-08fe-4b25-8961-f9286b222b04")
-		(property "Netclass" "12V"
-			(at 57.912 237.236 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Component Class" ""
-			(at -36.83 3.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-			)
-		)
-	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape round)
-		(at 198.12 254 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 255 106 245 1)
-			)
-			(justify right bottom)
-		)
-		(uuid "43690683-2c38-4bd5-8069-06f7f86b1d31")
-		(property "Netclass" "PowerV"
-			(at 198.12 258.064 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Component Class" ""
-			(at 318.77 -31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-			)
-		)
-	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape round)
-		(at 199.39 292.1 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 255 106 245 1)
-			)
-			(justify right bottom)
-		)
-		(uuid "cc3351ff-24a6-4e79-906b-4a11dd686e46")
-		(property "Netclass" "PowerV"
-			(at 199.644 296.164 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Component Class" ""
-			(at 78.74 6.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-			)
-		)
-	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape round)
-		(at 200.66 335.28 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 255 106 245 1)
-			)
-			(justify right bottom)
-		)
-		(uuid "d5dc4376-1229-4a7e-95c0-d9cb2d6ac3af")
-		(property "Netclass" "PowerV"
-			(at 200.66 339.598 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Component Class" ""
-			(at 80.01 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-			)
-		)
-	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape round)
-		(at 199.39 381 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 255 106 245 1)
-			)
-			(justify right bottom)
-		)
-		(uuid "f238aba1-faed-40b7-ba81-3982fc204603")
-		(property "Netclass" "PowerV"
-			(at 199.644 385.064 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Component Class" ""
-			(at 78.74 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-			)
-		)
-	)
 	(symbol
 		(lib_id "Interface_Expansion:AS1115-BSST")
 		(at 267.97 175.26 0)
@@ -28055,7 +27899,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SMC"
+		(property "Footprint" "Diode_SMD:D_SMB"
 			(at 306.07 254.254 0)
 			(effects
 				(font
@@ -40663,7 +40507,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SMC"
+		(property "Footprint" "Diode_SMD:D_SMB"
 			(at 42.164 245.11 0)
 			(effects
 				(font
@@ -40791,7 +40635,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 26.416 275.844 0)
+			(at 21.844 275.844 0)
 			(effects
 				(font
 					(size 1.27 1.27)
