@@ -15471,12 +15471,6 @@
 		(uuid "cfd18e44-d5e4-4017-87e4-0056f28fc6d8")
 	)
 	(junction
-		(at 115.57 74.93)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d0533cac-42fc-4025-9b55-241c97c11071")
-	)
-	(junction
 		(at 483.87 148.59)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -15797,10 +15791,6 @@
 	(no_connect
 		(at 127 151.13)
 		(uuid "55060826-428a-4763-ae15-8006db9675a8")
-	)
-	(no_connect
-		(at 123.19 55.88)
-		(uuid "56f9eab0-6136-4456-a0ca-d094b1d518f9")
 	)
 	(no_connect
 		(at 114.3 181.61)
@@ -17367,16 +17357,6 @@
 			(type default)
 		)
 		(uuid "26d234d2-1eea-4775-9896-432c58eef0b2")
-	)
-	(wire
-		(pts
-			(xy 115.57 58.42) (xy 115.57 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "26e6da23-973b-469d-8462-43cb1871b23c")
 	)
 	(wire
 		(pts
@@ -23875,16 +23855,6 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 58.42) (xy 115.57 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f8f3b1c3-29a7-4a8e-affa-3f669213c71d")
-	)
-	(wire
-		(pts
 			(xy 466.09 92.71) (xy 476.25 92.71)
 		)
 		(stroke
@@ -29930,80 +29900,6 @@
 			(project "Shield_VCU_Board"
 				(path "/4a8cb20d-5f30-4163-a2c8-18e2deeb65d3"
 					(reference "R23")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:Conn_01x04_Socket")
-		(at 128.27 60.96 0)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "2d6f6ea3-7979-416d-b04b-96740cb3eb48")
-		(property "Reference" "J14"
-			(at 131.318 57.912 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "CAN_OUT"
-			(at 133.35 60.198 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical_SMD_Pin1Left"
-			(at 128.27 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 128.27 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x04, script generated"
-			(at 128.27 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "4"
-			(uuid "b492025c-424c-48d6-87cf-7905435a124a")
-		)
-		(pin "1"
-			(uuid "642f67dd-180b-4774-8c5b-9f9373652160")
-		)
-		(pin "3"
-			(uuid "3f7786dc-23fd-4c89-87ba-56418cf2c624")
-		)
-		(pin "2"
-			(uuid "d7232551-08d3-43a3-8ad2-7103df3da919")
-		)
-		(instances
-			(project "Shield_VCU_Board"
-				(path "/4a8cb20d-5f30-4163-a2c8-18e2deeb65d3"
-					(reference "J14")
 					(unit 1)
 				)
 			)
@@ -37871,6 +37767,75 @@
 			(project "Shield_VCU_Board"
 				(path "/4a8cb20d-5f30-4163-a2c8-18e2deeb65d3"
 					(reference "D12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x02_Socket")
+		(at 128.27 60.96 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b743d816-b0f5-47a8-b188-5f5ccab46368")
+		(property "Reference" "J14"
+			(at 132.588 60.452 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "CAN_OUT"
+			(at 124.206 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "ALibrary:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical_GHST"
+			(at 128.27 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 128.27 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 128.27 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "c051841d-03fb-4279-812f-c9125a581aa3")
+		)
+		(pin "1"
+			(uuid "4d827a11-9d07-4105-a426-a92141ef5d02")
+		)
+		(instances
+			(project "Shield_VCU_Board"
+				(path "/4a8cb20d-5f30-4163-a2c8-18e2deeb65d3"
+					(reference "J14")
 					(unit 1)
 				)
 			)
