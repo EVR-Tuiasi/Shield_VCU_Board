@@ -1,4 +1,4 @@
-27224339030137301
+27226113389381008
 ALibrary
 Amphenol_F32Q-1A7x1-11040_1x40-1MP_P0.5mm_Horizontal_Flip
 Amphenol F32Q/T FPC connector, 40 top-side contacts, 0.5mm pitch, SMT, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/f32q-f32t.pdf
@@ -13,6 +13,13 @@ connector JST PH vertical
 0
 2
 2
+ALibrary
+LED_Cree-PLCC4_3.2x2.8mm_CCW_Corrected
+3.2mm x 2.8mm PLCC4 RGB LED, https://assets.cree-led.com/a/ds/h/HB-CLV1A-FKB.pdf
+LED Cree PLCC-4 3528 CLV1A-FKB
+0
+4
+4
 ALibrary
 foot
 
