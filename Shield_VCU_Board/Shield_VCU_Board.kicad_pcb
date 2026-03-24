@@ -332,6 +332,7 @@
 	(net 252 "Net-(Q3-E)")
 	(net 253 "Net-(Q4-E)")
 	(net 254 "Net-(Q4-B)")
+	(net 255 "unconnected-(J15-Pin_3-Pad3)")
 	(footprint "MountingHole:MountingHole_2.7mm_M2.5_Pad"
 		(locked yes)
 		(layer "F.Cu")
@@ -14221,9 +14222,9 @@
 			(at -1.655 -1.27 90)
 			(size 2.51 1)
 			(layers "B.Cu" "B.Mask" "B.Paste")
-			(net 35 "GND")
+			(net 255 "unconnected-(J15-Pin_3-Pad3)")
 			(pinfunction "Pin_3")
-			(pintype "passive")
+			(pintype "passive+no_connect")
 			(uuid "b94a0052-c65c-43a3-89c7-c3c87fac51fb")
 		)
 		(pad "4" smd rect
@@ -44988,14 +44989,6 @@
 		(uuid "4c2888c4-df98-4fea-aa38-f18924feda98")
 	)
 	(via
-		(at 265.65 114.65)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(net 35)
-		(uuid "4e3265cf-446f-4723-be84-56ee0a261a0f")
-	)
-	(via
 		(at 178.39 101.98)
 		(size 0.6)
 		(drill 0.3)
@@ -46702,14 +46695,6 @@
 		(uuid "c49e45a0-cdeb-4876-ac3f-326c5bb9f6e8")
 	)
 	(segment
-		(start 265.65 114.65)
-		(end 266.095 114.205)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 35)
-		(uuid "c616c4bf-b610-478b-a6ea-6d3ca260a100")
-	)
-	(segment
 		(start 131.7973 75.555878)
 		(end 133.155878 75.555878)
 		(width 0.2)
@@ -46980,14 +46965,6 @@
 		(layer "B.Cu")
 		(net 35)
 		(uuid "eb730a1d-009b-411e-b778-3d7a4997188d")
-	)
-	(segment
-		(start 266.095 114.205)
-		(end 266.095 112.65)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 35)
-		(uuid "eb77f97c-bdb3-476d-8071-e1d2d5c371c2")
 	)
 	(segment
 		(start 66.8 123)

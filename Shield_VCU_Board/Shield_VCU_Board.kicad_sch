@@ -15873,6 +15873,10 @@
 		(uuid "7bdcef67-16e2-49ea-8de2-f846fc6d52ca")
 	)
 	(no_connect
+		(at 115.57 80.01)
+		(uuid "801cb45e-8c13-4e02-994b-ec1320e439ef")
+	)
+	(no_connect
 		(at 488.95 158.75)
 		(uuid "81c9315a-7caa-4041-91ad-833a87497619")
 	)
@@ -17730,16 +17734,6 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 74.93) (xy 125.73 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "369d0291-86e9-47d3-bb95-0c24e0907178")
-	)
-	(wire
-		(pts
 			(xy 317.5 102.87) (xy 317.5 132.08)
 		)
 		(stroke
@@ -19469,16 +19463,6 @@
 			(type default)
 		)
 		(uuid "6fedf80d-c7a4-4667-ad07-352287806592")
-	)
-	(wire
-		(pts
-			(xy 115.57 74.93) (xy 115.57 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7000fdd0-891d-440f-8319-ff0cc7db32d2")
 	)
 	(wire
 		(pts
@@ -21564,16 +21548,6 @@
 			(type default)
 		)
 		(uuid "b4737d9c-a254-4484-b41b-27b65106bb24")
-	)
-	(wire
-		(pts
-			(xy 125.73 74.93) (xy 125.73 77.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b4bdca49-934a-496f-becf-7e9efbf0592f")
 	)
 	(wire
 		(pts
@@ -35993,70 +35967,6 @@
 			(project "Shield_VCU_Board"
 				(path "/4a8cb20d-5f30-4163-a2c8-18e2deeb65d3"
 					(reference "C37")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 125.73 77.47 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "9bcd8ec5-661e-43f7-88d2-49523ba90d66")
-		(property "Reference" "#PWR019"
-			(at 125.73 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 125.857 81.8642 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 125.73 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 125.73 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 125.73 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "1e265b86-5c6b-4730-ae78-22b203eb7bc5")
-		)
-		(instances
-			(project "Shield_VCU_Board"
-				(path "/4a8cb20d-5f30-4163-a2c8-18e2deeb65d3"
-					(reference "#PWR019")
 					(unit 1)
 				)
 			)
