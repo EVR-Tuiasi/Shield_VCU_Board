@@ -41,10 +41,10 @@
 			(layerselection 0x00000000_00000000_55555555_5755f5ff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
 			(disableapertmacros no)
-			(usegerberextensions no)
-			(usegerberattributes yes)
-			(usegerberadvancedattributes yes)
-			(creategerberjobfile yes)
+			(usegerberextensions yes)
+			(usegerberattributes no)
+			(usegerberadvancedattributes no)
+			(creategerberjobfile no)
 			(dashed_line_dash_ratio 12.000000)
 			(dashed_line_gap_ratio 3.000000)
 			(svgprecision 4)
@@ -1243,10 +1243,9 @@
 		(embedded_fonts no)
 	)
 	(footprint "LOGO"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "3249af7d-2f40-4784-a4e9-71d1209a8715")
-		(at 53.742356 143.373154)
+		(at 53.66591 141.53075)
 		(property "Reference" "G***"
 			(at 0 0 0)
 			(layer "F.SilkS")
@@ -2236,7 +2235,6 @@
 		)
 	)
 	(footprint "LOGO"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "8a2878dd-4f9a-460e-951d-db4c7e8b7da0")
 		(at 54.920635 47.503932)
@@ -41401,6 +41399,19 @@
 		(layer "Edge.Cuts")
 		(uuid "ec72f011-a17f-4e2f-8646-f5db2349a2f3")
 	)
+	(gr_text "25 Mar 2026 - v1.0"
+		(at 50.41 149.67 0)
+		(layer "F.SilkS")
+		(uuid "5c4f9f1e-6007-49f1-8da0-3f7bc3ff8078")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "Display\n"
 		(locked yes)
 		(at 231.85 52.01 0)
@@ -58351,11 +58362,6 @@
 			"c156578a-8dcc-4bdf-a0de-f32547fd30f2" "c7bfbb3b-08b9-48b1-89b6-a1391ffdcb55"
 			"da7d95ad-f804-47fb-97a6-79f3b770a63f" "dc49f75f-b182-4998-8474-ea027ee18e47"
 		)
-	)
-	(group ""
-		(uuid "85fae666-9780-4110-a7eb-007dedba5e87")
-		(locked yes)
-		(members "3249af7d-2f40-4784-a4e9-71d1209a8715" "8a2878dd-4f9a-460e-951d-db4c7e8b7da0")
 	)
 	(group ""
 		(uuid "c36b1466-1712-4fc7-bbd0-bba41e5d333c")
