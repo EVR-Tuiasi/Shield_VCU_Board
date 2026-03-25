@@ -28083,8 +28083,8 @@
 				)
 			)
 		)
-		(property "Value" "LED"
-			(at 36.83 346.202 0)
+		(property "Value" "AA35*"
+			(at 37.338 353.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28149,8 +28149,8 @@
 				)
 			)
 		)
-		(property "Value" "LED"
-			(at 38.354 361.188 0)
+		(property "Value" "AA35*"
+			(at 38.354 368.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28215,8 +28215,8 @@
 				)
 			)
 		)
-		(property "Value" "LED"
-			(at 36.83 376.682 0)
+		(property "Value" "AA35*"
+			(at 37.592 383.286 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28281,8 +28281,8 @@
 				)
 			)
 		)
-		(property "Value" "LED"
-			(at 36.83 390.144 0)
+		(property "Value" "AA35*"
+			(at 37.338 397.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
