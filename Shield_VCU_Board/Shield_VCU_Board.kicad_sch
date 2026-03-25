@@ -14913,12 +14913,6 @@
 		(uuid "014fb26a-9eb5-46dc-a029-67a62e70a4b3")
 	)
 	(junction
-		(at 270.51 260.35)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "01bcd9b2-0278-4ff3-84ed-86dc560f37e9")
-	)
-	(junction
 		(at 50.8 248.92)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -15517,6 +15511,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c4017b11-f747-4c4a-bc66-df5245a2d44f")
+	)
+	(junction
+		(at 270.51 260.35)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c480aba1-d719-4c3e-928b-fd2dcd48369c")
 	)
 	(junction
 		(at 180.34 344.17)
@@ -19460,6 +19460,16 @@
 			(type default)
 		)
 		(uuid "66c46bf8-933f-4a80-8840-23f37379b5bd")
+	)
+	(wire
+		(pts
+			(xy 270.51 260.35) (xy 275.59 260.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6728e1de-9e71-46f5-b0fb-8a929fe5d2e0")
 	)
 	(wire
 		(pts
@@ -24133,16 +24143,6 @@
 			(type default)
 		)
 		(uuid "fc585e5c-0420-4de7-83fe-7f4afaf37784")
-	)
-	(wire
-		(pts
-			(xy 270.51 260.35) (xy 275.59 260.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fca33bc3-eee8-4778-97c9-037802a8f402")
 	)
 	(wire
 		(pts
@@ -36735,7 +36735,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "FT812"
+		(property "Value" "FT813Q"
 			(at 402.082 94.234 0)
 			(effects
 				(font
@@ -37672,7 +37672,7 @@
 				)
 			)
 		)
-		(property "Value" "TPS61165DBV"
+		(property "Value" "TPS61165-Q1"
 			(at 291.084 274.574 0)
 			(effects
 				(font

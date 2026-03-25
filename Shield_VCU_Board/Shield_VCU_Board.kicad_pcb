@@ -72,9 +72,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "Gerbers/")
 		)
 	)
 	(net 0 "")
@@ -352,6 +352,7 @@
 		(property "Value" "MountingHole_VCU"
 			(at 0 3.65 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "7cc5ad77-8ce3-45ff-81ee-caf9084b6962")
 			(effects
 				(font
@@ -812,6 +813,7 @@
 		(property "Value" "MountingHole_Pad"
 			(at -4.1 3.9 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "b4de1fd1-49df-4857-9ccb-33644b643685")
 			(effects
 				(font
@@ -1969,6 +1971,7 @@
 		(property "Value" "MountingHole_Pad"
 			(at 0 3.65 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "e378f759-3ab0-42ee-8cf7-d6ff8fe313fa")
 			(effects
 				(font
@@ -2523,6 +2526,7 @@
 		(property "Value" "MountingHole_Pad"
 			(at 0 3.65 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "6d1dc508-9800-4335-8607-4de6a0271984")
 			(effects
 				(font
@@ -34409,7 +34413,7 @@
 			)
 		)
 		(property "Value" "Button_Activation_Logic"
-			(at 1 -4 0)
+			(at 4.95 -4.4 0)
 			(layer "B.Fab")
 			(uuid "e434a614-7c27-496e-9d85-bbf2e844bbf9")
 			(effects
@@ -41411,19 +41415,6 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "MOTHERBOARD (250X107)"
-		(at 140.3 39.95 0)
-		(layer "F.Paste")
-		(uuid "b43fdc52-ee3b-4cfc-bed7-06ecb91f2cd7")
-		(effects
-			(font
-				(size 6 6)
-				(thickness 1.2)
-				(bold yes)
-			)
-			(justify left bottom)
-		)
-	)
 	(gr_text "L2"
 		(locked yes)
 		(at 92.37 100.88 90)
@@ -41435,164 +41426,6 @@
 				(thickness 0.15)
 			)
 			(justify mirror)
-		)
-	)
-	(dimension
-		(type orthogonal)
-		(layer "F.Paste")
-		(uuid "22f7b4b0-84c7-41c2-91cd-680bba8db009")
-		(pts
-			(xy 31 44) (xy 31 151.1)
-		)
-		(height -10.7)
-		(orientation 1)
-		(format
-			(prefix "")
-			(suffix "")
-			(units 3)
-			(units_format 0)
-			(precision 4)
-			(suppress_zeroes yes)
-		)
-		(style
-			(thickness 0.1)
-			(arrow_length 1.27)
-			(text_position_mode 0)
-			(arrow_direction outward)
-			(extension_height 0.58642)
-			(extension_offset 0.5)
-			(keep_text_aligned yes)
-		)
-		(gr_text "107.1"
-			(at 19.15 97.55 90)
-			(layer "F.Paste")
-			(uuid "22f7b4b0-84c7-41c2-91cd-680bba8db009")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-	)
-	(dimension
-		(type orthogonal)
-		(locked yes)
-		(layer "F.Paste")
-		(uuid "4b8d6c7e-5d07-4038-bfd6-54f2c5bfdbe2")
-		(pts
-			(xy 182.1 149.2) (xy 104.55 149.2)
-		)
-		(height 6.35)
-		(orientation 0)
-		(format
-			(prefix "")
-			(suffix "")
-			(units 3)
-			(units_format 0)
-			(precision 4)
-			(suppress_zeroes yes)
-		)
-		(style
-			(thickness 0.1)
-			(arrow_length 1.27)
-			(text_position_mode 0)
-			(arrow_direction outward)
-			(extension_height 0.58642)
-			(extension_offset 0.5)
-			(keep_text_aligned yes)
-		)
-		(gr_text "77.55"
-			(locked yes)
-			(at 143.325 154.4 0)
-			(layer "F.Paste")
-			(uuid "4b8d6c7e-5d07-4038-bfd6-54f2c5bfdbe2")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-	)
-	(dimension
-		(type orthogonal)
-		(locked yes)
-		(layer "F.Paste")
-		(uuid "912f1bac-a5a8-4913-b747-33611384d7f5")
-		(pts
-			(xy 184 151.1) (xy 179.7 124.61)
-		)
-		(height -9.7)
-		(orientation 1)
-		(format
-			(prefix "")
-			(suffix "")
-			(units 3)
-			(units_format 0)
-			(precision 4)
-			(suppress_zeroes yes)
-		)
-		(style
-			(thickness 0.1)
-			(arrow_length 1.27)
-			(text_position_mode 0)
-			(arrow_direction outward)
-			(extension_height 0.58642)
-			(extension_offset 0.5)
-			(keep_text_aligned yes)
-		)
-		(gr_text "26.49"
-			(locked yes)
-			(at 173.15 137.855 90)
-			(layer "F.Paste")
-			(uuid "912f1bac-a5a8-4913-b747-33611384d7f5")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-	)
-	(dimension
-		(type orthogonal)
-		(locked yes)
-		(layer "F.Paste")
-		(uuid "984e1e30-8199-43fa-8bfe-8a67d1eccb21")
-		(pts
-			(xy 275.5 140.1) (xy 25.1 140.2)
-		)
-		(height 20.59)
-		(orientation 0)
-		(format
-			(prefix "")
-			(suffix "")
-			(units 3)
-			(units_format 0)
-			(precision 4)
-			(suppress_zeroes yes)
-		)
-		(style
-			(thickness 0.2)
-			(arrow_length 1.27)
-			(text_position_mode 0)
-			(arrow_direction outward)
-			(extension_height 0.58642)
-			(extension_offset 0.5)
-			(keep_text_aligned yes)
-		)
-		(gr_text "250.4"
-			(locked yes)
-			(at 150.3 158.89 0)
-			(layer "F.Paste")
-			(uuid "984e1e30-8199-43fa-8bfe-8a67d1eccb21")
-			(effects
-				(font
-					(size 1.5 1.5)
-					(thickness 0.3)
-				)
-			)
 		)
 	)
 	(segment

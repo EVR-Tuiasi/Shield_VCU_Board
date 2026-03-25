@@ -545,7 +545,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "Gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "C:/Users/saint/OneDrive/Рабочий стол/Shield_VCU_Board.step",
