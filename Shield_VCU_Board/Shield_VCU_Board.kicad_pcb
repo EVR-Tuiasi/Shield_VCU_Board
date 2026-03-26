@@ -1243,6 +1243,7 @@
 		(embedded_fonts no)
 	)
 	(footprint "LOGO"
+		(locked yes)
 		(layer "F.Cu")
 		(uuid "3249af7d-2f40-4784-a4e9-71d1209a8715")
 		(at 53.66591 141.53075)
@@ -2235,6 +2236,7 @@
 		)
 	)
 	(footprint "LOGO"
+		(locked yes)
 		(layer "F.Cu")
 		(uuid "8a2878dd-4f9a-460e-951d-db4c7e8b7da0")
 		(at 54.920635 47.503932)

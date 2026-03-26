@@ -5,9 +5,10 @@
 	(uuid "4a8cb20d-5f30-4163-a2c8-18e2deeb65d3")
 	(paper "A2")
 	(title_block
-		(title "VCU DASHBOARD V2.0")
+		(title "VCU DASHBOARD V1.0")
 		(date "2026-03-20")
-		(company "EVR TOVOR IASI")
+		(rev "Viorel Stoica")
+		(company "EVR IASI")
 	)
 	(lib_symbols
 		(symbol "74xGxx:SN74LVC1G125DBV"
@@ -30257,7 +30258,7 @@
 				)
 			)
 		)
-		(property "Value" "MBRS340"
+		(property "Value" "SS34"
 			(at 306.3875 247.65 0)
 			(effects
 				(font
@@ -42864,7 +42865,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MBRS340"
+		(property "Value" "SS34"
 			(at 53.34 246.0624 90)
 			(effects
 				(font
