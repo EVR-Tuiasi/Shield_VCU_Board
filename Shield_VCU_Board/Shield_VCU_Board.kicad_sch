@@ -29013,7 +29013,7 @@
 				)
 			)
 		)
-		(property "Value" "660"
+		(property "Value" "220"
 			(at 66.04 294.132 90)
 			(effects
 				(font
@@ -30258,7 +30258,7 @@
 				)
 			)
 		)
-		(property "Value" "SS34"
+		(property "Value" "SSC54*"
 			(at 306.3875 247.65 0)
 			(effects
 				(font
@@ -33181,7 +33181,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 481.33 143.51 0)
 			(effects
 				(font
@@ -36057,7 +36057,7 @@
 				)
 			)
 		)
-		(property "Value" "660"
+		(property "Value" "220"
 			(at 66.04 308.102 90)
 			(effects
 				(font
@@ -38735,7 +38735,7 @@
 				)
 			)
 		)
-		(property "Value" "660"
+		(property "Value" "220"
 			(at 66.04 320.802 90)
 			(effects
 				(font
@@ -41682,7 +41682,7 @@
 				)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "660"
 			(at 66.04 281.432 90)
 			(effects
 				(font
@@ -42865,7 +42865,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SS34"
+		(property "Value" "SSC54*"
 			(at 53.34 246.0624 90)
 			(effects
 				(font
