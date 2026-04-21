@@ -1,56 +1,56 @@
-Reference,Qty,Value,Footprint,Description,Manufacturer part,Manufacturer,
-"7U1,7U2,7U3,7U4,7U5,7U6,7U7,7U8",8,HDSP-7803_EVR,T7DS052BC,,WL-T7DS 7 Segments Display THT Single Digit,Wuerth Elektronik,
-"C1,C2,C3",3,4.7nF,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,"Unpolarized capacitor, small symbol",08052C223M4Z2A,KYOCERA AVX,
-"C4,C42",2,0.47uF,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,"Unpolarized capacitor, small symbol",0805ZD474KAT2A,KYOCERA AVX,
-C5,1,0.22uF,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,"Unpolarized capacitor, small symbol",0805ZC224KAT2A,KYOCERA AVX,
-"C6,C27,C29,C31,C33,C39,C43",7,1uF,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,"Unpolarized capacitor, small symbol",08053G105MAT2A,KYOCERA AVX,
-"C7,C14,C15,C16,C37,C40",6,27pF,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,"Unpolarized capacitor, small symbol",VJ0805A270GXJCW1BC,Vishay/Vitramon,
-C8,1,100uF,Capacitor_SMD:CP_Elec_4x5.4,Polarized capacitor,8.65081E+11,Wuerth Elektronik,
-"C9,C11,C12,C17,C18,C19,C20,C35,C36,C41",10,0.1uF,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,"Unpolarized capacitor, small symbol",KAM21BR71H104JM,KYOCERA AVX,
-C10,1,10nF,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,GRM21BR7LU103KW01L,Murata Electronics,
-C13,1,4.7uF,Capacitor_Tantalum_SMD:CP_EIA-2012-12_Kemet-R_HandSolder,,TMCP1A475MTRF,Vishay,
-C38,2,4.7uF,"Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,","Polarized capacitor, small symbol,Unpolarized capacitor, small symbol",GCM21BM8EH475KE08L,Murata Electronics,
-"C28,C30,C32,C34",4,2.2uF,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,"Unpolarized capacitor, small symbol",GXT21BR71C225KE01L,Murata Electronics,
-C44,1,220nF,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,"Unpolarized capacitor, small symbol",KAM21KR72A224KU,KYOCERA AVX,
-"D1,D2,D3,D4",4,AA35*,ALibrary:LED_Cree-PLCC4_3.2x2.8mm_CCW_Orange,,AA3527ASESK-50MAV,Kingbright,
-"D7,D8,D9,D10",4,MBR0540,Diode_SMD:D_SOD-123,"40V 0.5A Schottky Power Rectifier Diode, SOD-123",MBR0540T1G,onsemi,
-"D11,D12,D13,D14",4,LED(Green),LED_SMD:LED_0805_2012Metric,,APTD2012LCGCK,Kingbright,
-"D15,D16",2,SSC54*,Diode_SMD:D_SMB,Schottky Diodes & Rectifiers 5.0 Amp 40 Volt 175A IFSM @ 8.3ms,SSC54HE3_A/H,Vishay Semiconductors,
-D17,1,1N4148WT,Diode_SMD:D_SOD-523,Small Signal Switching Diodes SWITCHING 100V 125mA 150mW,1N4148WT,YAGEO,
-"FB1,FB2",2,600R/1A,Inductor_SMD:L_Neosid_SM-PIC0512H,Ferrite Beads MultLyr Chip Bead 600 OHM 1206 1000mA,2512066017Y1,Fair-Rite,
-"J1,J4",2,Conn_02x08_Odd_Even,Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Vertical_SMD,"Generic connector, double row, 02x08, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",10129303-116001 B,Ampherol,
-"J2,J5,J6",3,Conn_02x10_Odd_Even,Connector_PinHeader_2.54mm:PinHeader_2x10_P2.54mm_Vertical_SMD,"Generic connector, double row, 02x10, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",10129303-120001 B,Ampherol,
-J3/1,1,NXP3,Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical_SMD,"Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",10129303-106001 B,Ampherol,
-J7,1,Button_Activation_Logic,ALibrary:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical_GHST,"Generic connector, single row, 01x02, script generated",,,
-J8,1,Conn_ToSpeaker,ALibrary:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical_GHST,"Generic connector, single row, 01x02, script generated",,,
-J10,1,Main_Supply,ALibrary:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical_GHST,"Generic connector, single row, 01x02, script generated",,,
-J11,1,Conn_01x40_Socket,Connector_FFC-FPC:Amphenol_F32Q-1A7x1-11040_1x40-1MP_P0.5mm_Horizontal,"Generic connector, single row, 01x40, script generated",541044031,molex,
-J13,1,Conn_Molex_TouchPanel,Connector_FFC-FPC:Molex_200528-0060_1x06-1MP_P1.00mm_Horizontal,"Generic connectable mounting pin connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)",200529-0061,molex,
-J14,1,CAN_OUT,ALibrary:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical_GHST,"Generic connector, single row, 01x02, script generated",,,
-J15,1,Conn_01x04_Socket,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,"Generic connector, single row, 01x04, script generated",DS1023-1*4S21,CONNFLY,
-L2,1,10uH,Inductor_SMD:L_TDK_SLF7032,"Inductor, small symbol",PA4340.103NLT,Pulse Electronics,
-LCD1,1,LCD screen,NHD-7.0-800480AF-LSXP-CTP,Display,NHD-7.0-800480AF-ASXP-CTP,NEWHEAVEN DISPLAY,
-"Q1,Q2,Q3,Q4",4,BSS138,Package_TO_SOT_SMD:SOT-23,"50V Vds, 0.22A Id, N-Channel MOSFET, SOT-23",BSS138,onsemi,
-"R1,R17,R18,R23",4,1M,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,CRCW12061M00FKEBC,Vishay,
-"R2,R3,R4,R5,R22,R52,R53",7,220R,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,CRCW1206220RFKEC,Vishay,
-"R6,R10",2,33R,Resistor_SMD::R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,CRCW120633R0FKTA,Vishay,
-"R7,R8,R9,R19,R61,R63",6,1k,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,CRCW12061K00JNECHP,Vishay,
-"R11,R16,R20,R21",4,47k,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,CRCW120647K0JNEAHP,Vishay,
-"R12,R14",2,10k1%,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,RCC120610K0FKEA,Vishay/Dale,
-"R13,R15",2,20k1%,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,CRCW120620K0FKEAHP,Vishay,
-"R55,R56,R64",3,4.7k,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,RE1206DRE074K7L,YAGEO,
-R62,1,100k,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,CRCW1206100KFKEBC,Vishay,
-"RN1,RN2,RN3,RN4,RN5,RN6,RN7,RN8",8,R_Pack_33R_04,Resistor_SMD:R_Array_Convex_4x0402,"4 resistor network, parallel topology",RAVF104DJT33R0,SEI Stackpole,
-RSET1,1,11k,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,CR1206-FX-1102ELF,Bourns,
-RSET2,1,1.1R1%,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,CRCW12061R10FNEA,Vishay,
-U1,1,AS1115-BSST,Package_SO:QSOP-24_3.9x8.7mm_P0.635mm,,AS1115-BSST,ams OSRAM,
-U2,1,SN74LVC1G125DBV,Package_TO_SOT_SMD:SOT-23-5,"Single Buffer Gate Tri-State, Low-Voltage CMOS, SOT-23-5",SN74LVC1G125DBVT,Texas Instruments,
-U3,1,MC74HC14A,Package_SO:SOIC-14_3.9x8.7mm_P1.27mm,"7-stage binary ripple counter, SOIC-14",MC74HC14ADR2G-Q,onsemi,
-U4,1,TPA6205A1,Package_SON:SON-8-1EP_3x2mm_P0.5mm_EP1.4x1.6mm,,SLOS490TPA6205A1,Texas Instruments,
-"U5,U8,U9",3,TLV76133DCY,Package_TO_SOT_SMD:SOT-223-3_TabPin2,"3.3V, 1A, Low Noise, High-PSRR LDO Regulator, 2.5V...16V input, SOT-223",TLV76133DCYR,Texas Instruments,
-U6,1,TLV76150DCY,Package_TO_SOT_SMD:SOT-223-3_TabPin2,"5.0V, 1A, Low Noise, High-PSRR LDO Regulator, 2.5V...16V input, SOT-223",TLV76150DCYR,Texas Instruments,
-U7,1,FT813Q,Package_CSP:LFCSP-56-1EP_8x8mm_P0.5mm_EP6.6x6.6mm,,FT813Q-R,Bridgetek,
-U10,1,TPS61165-Q1,Package_TO_SOT_SMD:SOT-23-6,"High-Brightness, White LED Driver, 3V to 18V input voltage range, internal switch, constant current, up to 38V/1.2A output, SOT-23-6",TPS61165-Q1,Texas Instruments,
-Y2,1,SG-210STF,Oscillator:Oscillator_SMD_SeikoEpson_SG210-4Pin_2.5x2.0mm,CMOS Crystal Oscillator SPXO,SG-210SFT,SEIKO EPSON,
-R27,1,33R,R_0603_1608Metric,,RT0603BRE0733RL,YAGEO,
-R54,1,660,Resistor_SMD::R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,ERA-8AEB6340V,Panasonic,
+Reference,Qty,Value,Footprint,Description,Manufacturer part,Manufacturer
+"7U1,7U2,7U3,7U4,7U5,7U6,7U7,7U8",8,HDSP-7803_EVR,T7DS052BC,,WL-T7DS 7 Segments Display THT Single Digit,Wuerth Elektronik
+"C1,C2,C3",3,4.7nF,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,"Unpolarized capacitor, small symbol",08052C223M4Z2A,KYOCERA AVX
+"C4,C42",2,0.47uF,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,"Unpolarized capacitor, small symbol",0805ZD474KAT2A,KYOCERA AVX
+C5,1,0.22uF,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,"Unpolarized capacitor, small symbol",0805ZC224KAT2A,KYOCERA AVX
+"C6,C27,C29,C31,C33,C39,C43",7,1uF,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,"Unpolarized capacitor, small symbol",08053G105MAT2A,KYOCERA AVX
+"C7,C14,C15,C16,C37,C40",6,27pF,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,"Unpolarized capacitor, small symbol",VJ0805A270GXJCW1BC,Vishay/Vitramon
+C8,1,100uF,Capacitor_SMD:CP_Elec_4x5.4,Polarized capacitor,8.65081E+11,Wuerth Elektronik
+"C9,C11,C12,C17,C18,C19,C20,C35,C36,C41",10,0.1uF,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,"Unpolarized capacitor, small symbol",KAM21BR71H104JM,KYOCERA AVX
+C10,1,10nF,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,GRM21BR7LU103KW01L,Murata Electronics
+C13,1,4.7uF,Capacitor_Tantalum_SMD:CP_EIA-2012-12_Kemet-R_HandSolder,,TMCP1A475MTRF,Vishay
+C38,2,4.7uF,"Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,","Polarized capacitor, small symbol,Unpolarized capacitor, small symbol",GCM21BM8EH475KE08L,Murata Electronics
+"C28,C30,C32,C34",4,2.2uF,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,"Unpolarized capacitor, small symbol",GXT21BR71C225KE01L,Murata Electronics
+C44,1,220nF,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,"Unpolarized capacitor, small symbol",KAM21KR72A224KU,KYOCERA AVX
+"D1,D2,D3,D4",4,AA35*,ALibrary:LED_Cree-PLCC4_3.2x2.8mm_CCW_Orange,,AA3527ASESK-50MAV,Kingbright
+"D7,D8,D9,D10",4,MBR0540,Diode_SMD:D_SOD-123,"40V 0.5A Schottky Power Rectifier Diode, SOD-123",MBR0540T1G,onsemi
+"D11,D12,D13,D14",4,LED(Green),LED_SMD:LED_0805_2012Metric,,APTD2012LCGCK,Kingbright
+"D15,D16",2,SSC54*,Diode_SMD:D_SMB,Schottky Diodes & Rectifiers 5.0 Amp 40 Volt 175A IFSM @ 8.3ms,SSC54HE3_A/H,Vishay Semiconductors
+D17,1,1N4148WT,Diode_SMD:D_SOD-523,Small Signal Switching Diodes SWITCHING 100V 125mA 150mW,1N4148WT,YAGEO
+"FB1,FB2",2,600R/1A,Inductor_SMD:L_Neosid_SM-PIC0512H,Ferrite Beads MultLyr Chip Bead 600 OHM 1206 1000mA,2512066017Y1,Fair-Rite
+"J1,J4",2,Conn_02x08_Odd_Even,Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Vertical_SMD,"Generic connector, double row, 02x08, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",10129303-116001 B,Ampherol
+"J2,J5,J6",3,Conn_02x10_Odd_Even,Connector_PinHeader_2.54mm:PinHeader_2x10_P2.54mm_Vertical_SMD,"Generic connector, double row, 02x10, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",10129303-120001 B,Ampherol
+J3/1,1,NXP3,Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical_SMD,"Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",10129303-106001 B,Ampherol
+J7,1,Button_Activation_Logic,ALibrary:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical_GHST,"Generic connector, single row, 01x02, script generated",B02B-PASK-1,JST
+J8,1,Conn_ToSpeaker,ALibrary:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical_GHST,"Generic connector, single row, 01x02, script generated",B02B-PASK-1,JST
+J10,1,Main_Supply,ALibrary:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical_GHST,"Generic connector, single row, 01x02, script generated",B02B-PASK-1,JST
+J11,1,Conn_01x40_Socket,Connector_FFC-FPC:Amphenol_F32Q-1A7x1-11040_1x40-1MP_P0.5mm_Horizontal,"Generic connector, single row, 01x40, script generated",541044031,molex
+J13,1,Conn_Molex_TouchPanel,Connector_FFC-FPC:Molex_200528-0060_1x06-1MP_P1.00mm_Horizontal,"Generic connectable mounting pin connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)",200529-0061,molex
+J14,1,CAN_OUT,ALibrary:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical_GHST,"Generic connector, single row, 01x02, script generated",B02B-PASK-1,JST
+J15,1,Conn_01x04_Socket,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,"Generic connector, single row, 01x04, script generated",DS1023-1*4S21,CONNFLY
+L2,1,10uH,Inductor_SMD:L_TDK_SLF7032,"Inductor, small symbol",PA4340.103NLT,Pulse Electronics
+LCD1,1,LCD screen,NHD-7.0-800480AF-LSXP-CTP,Display,NHD-7.0-800480AF-ASXP-CTP,NEWHEAVEN DISPLAY
+"Q1,Q2,Q3,Q4",4,BSS138,Package_TO_SOT_SMD:SOT-23,"50V Vds, 0.22A Id, N-Channel MOSFET, SOT-23",BSS138,onsemi
+"R1,R17,R18,R23",4,1M,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,CRCW12061M00FKEBC,Vishay
+"R2,R3,R4,R5,R22,R52,R53",7,220R,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,CRCW1206220RFKEC,Vishay
+"R6,R10",2,33R,Resistor_SMD::R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,CRCW120633R0FKTA,Vishay
+"R7,R8,R9,R19,R61,R63",6,1k,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,CRCW12061K00JNECHP,Vishay
+"R11,R16,R20,R21",4,47k,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,CRCW120647K0JNEAHP,Vishay
+"R12,R14",2,10k1%,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,RCC120610K0FKEA,Vishay/Dale
+"R13,R15",2,20k1%,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,CRCW120620K0FKEAHP,Vishay
+"R55,R56,R64",3,4.7k,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,RE1206DRE074K7L,YAGEO
+R62,1,100k,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,CRCW1206100KFKEBC,Vishay
+"RN1,RN2,RN3,RN4,RN5,RN6,RN7,RN8",8,R_Pack_33R_04,Resistor_SMD:R_Array_Convex_4x0402,"4 resistor network, parallel topology",RAVF104DJT33R0,SEI Stackpole
+RSET1,1,11k,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,CR1206-FX-1102ELF,Bourns
+RSET2,1,1.1R1%,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,CRCW12061R10FNEA,Vishay
+U1,1,AS1115-BSST,Package_SO:QSOP-24_3.9x8.7mm_P0.635mm,,AS1115-BSST,ams OSRAM
+U2,1,SN74LVC1G125DBV,Package_TO_SOT_SMD:SOT-23-5,"Single Buffer Gate Tri-State, Low-Voltage CMOS, SOT-23-5",SN74LVC1G125DBVT,Texas Instruments
+U3,1,MC74HC14A,Package_SO:SOIC-14_3.9x8.7mm_P1.27mm,"7-stage binary ripple counter, SOIC-14",MC74HC14ADR2G-Q,onsemi
+U4,1,TPA6205A1,Package_SON:SON-8-1EP_3x2mm_P0.5mm_EP1.4x1.6mm,,SLOS490TPA6205A1,Texas Instruments
+"U5,U8,U9",3,TLV76133DCY,Package_TO_SOT_SMD:SOT-223-3_TabPin2,"3.3V, 1A, Low Noise, High-PSRR LDO Regulator, 2.5V...16V input, SOT-223",TLV76133DCYR,Texas Instruments
+U6,1,TLV76150DCY,Package_TO_SOT_SMD:SOT-223-3_TabPin2,"5.0V, 1A, Low Noise, High-PSRR LDO Regulator, 2.5V...16V input, SOT-223",TLV76150DCYR,Texas Instruments
+U7,1,FT813Q,Package_CSP:LFCSP-56-1EP_8x8mm_P0.5mm_EP6.6x6.6mm,,FT813Q-R,Bridgetek
+U10,1,TPS61165-Q1,Package_TO_SOT_SMD:SOT-23-6,"High-Brightness, White LED Driver, 3V to 18V input voltage range, internal switch, constant current, up to 38V/1.2A output, SOT-23-6",TPS61165-Q1,Texas Instruments
+Y2,1,SG-210STF,Oscillator:Oscillator_SMD_SeikoEpson_SG210-4Pin_2.5x2.0mm,CMOS Crystal Oscillator SPXO,SG-210SFT,SEIKO EPSON
+R27,1,33R,R_0603_1608Metric,,RT0603BRE0733RL,YAGEO
+R54,1,660,Resistor_SMD::R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,ERA-8AEB6340V,Panasonic
