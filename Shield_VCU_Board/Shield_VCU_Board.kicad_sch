@@ -14712,6 +14712,17 @@
 		)
 		(uuid "3fc791df-b17d-4c8b-9cd5-febd62d2968f")
 	)
+	(text "Backlight requirements: \n9.3V/180mA"
+		(exclude_from_sim no)
+		(at 338.582 259.334 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 143 0 0 1)
+			)
+		)
+		(uuid "401462ab-4b6d-4fc1-8bf7-7d5264687ceb")
+	)
 	(text "LCD BACKLIGHT DRIVER"
 		(exclude_from_sim no)
 		(at 287.02 235.712 0)

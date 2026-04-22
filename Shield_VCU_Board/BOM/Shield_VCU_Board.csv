@@ -24,8 +24,8 @@ J3/1,1,NXP3,Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical_SMD,"Gene
 J7,1,Button_Activation_Logic,ALibrary:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical_GHST,"Generic connector, single row, 01x02, script generated",B02B-PASK-1,JST
 J8,1,Conn_ToSpeaker,ALibrary:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical_GHST,"Generic connector, single row, 01x02, script generated",B02B-PASK-1,JST
 J10,1,Main_Supply,ALibrary:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical_GHST,"Generic connector, single row, 01x02, script generated",B02B-PASK-1,JST
-J11,1,Conn_01x40_Socket,Connector_FFC-FPC:Amphenol_F32Q-1A7x1-11040_1x40-1MP_P0.5mm_Horizontal,"Generic connector, single row, 01x40, script generated",541044031,molex
-J13,1,Conn_Molex_TouchPanel,Connector_FFC-FPC:Molex_200528-0060_1x06-1MP_P1.00mm_Horizontal,"Generic connectable mounting pin connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)",200529-0061,molex
+J11,1,Conn_01x40_Socket,Connector_FFC-FPC:Amphenol_F32Q-1A7x1-11040_1x40-1MP_P0.5mm_Horizontal,"Generic connector, single row, 01x40, script generated",54104-4031,molex
+J13,1,Conn_Molex_TouchPanel,Connector_FFC-FPC:Molex_200528-0060_1x06-1MP_P1.00mm_Horizontal,"Generic connectable mounting pin connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)",52271-0679,molex
 J14,1,CAN_OUT,ALibrary:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical_GHST,"Generic connector, single row, 01x02, script generated",B02B-PASK-1,JST
 J15,1,Conn_01x04_Socket,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,"Generic connector, single row, 01x04, script generated",DS1023-1*4S21,CONNFLY
 L2,1,10uH,Inductor_SMD:L_TDK_SLF7032,"Inductor, small symbol",PA4340.103NLT,Pulse Electronics
