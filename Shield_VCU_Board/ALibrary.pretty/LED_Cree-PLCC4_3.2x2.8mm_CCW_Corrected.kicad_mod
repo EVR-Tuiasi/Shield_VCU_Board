@@ -1,0 +1,161 @@
+(footprint "LED_Cree-PLCC4_3.2x2.8mm_CCW_Corrected"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "3.2mm x 2.8mm PLCC4 RGB LED, https://assets.cree-led.com/a/ds/h/HB-CLV1A-FKB.pdf")
+	(tags "LED Cree PLCC-4 3528 CLV1A-FKB")
+	(property "Reference" "REF**"
+		(at 0 -2.65 0)
+		(layer "F.SilkS")
+		(uuid "9727f986-35e8-44eb-8b3d-79d1f69db580")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "LED_Cree-PLCC4_3.2x2.8mm_CCW_Corrected"
+		(at 0 2.65 0)
+		(layer "F.Fab")
+		(uuid "99a02f3c-b292-4fd5-bb39-9708ceb7a8de")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ec3bb0c0-51dd-4b43-ab97-f77e3d51bdc4")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a38ad562-b087-4290-9119-e1d7d436717b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_poly
+		(pts
+			(xy -1.712923 1.51) (xy 2.007077 1.51) (xy 2.007077 -1.51) (xy -2.012923 -1.51) (xy -2.012923 1.21)
+		)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "f6a587b3-abd6-4f64-930f-cd96a08221a1")
+	)
+	(fp_rect
+		(start -2 -1.65)
+		(end 2 1.65)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "2a075b13-3d99-4875-82f8-eef66ad365c6")
+	)
+	(fp_line
+		(start -1.59 0.39)
+		(end -0.59 1.39)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "bb4e9d9d-ec3b-46e4-bc03-9cace15e25ff")
+	)
+	(fp_rect
+		(start -1.6 -1.4)
+		(end 1.6 1.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "8186aa57-e2e6-4f10-a1b1-b04cd532f528")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 1.12 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "3b312473-82b5-419c-b524-6c269ff938f4")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "2f255e8d-4967-479e-8adb-e898b4507820")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.075)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at -1.25 0.7)
+		(size 1 0.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "44e7f785-662b-4ba2-90f9-ca83fc5f0f14")
+	)
+	(pad "2" smd roundrect
+		(at 1.25 0.7)
+		(size 1 0.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "2ab8677f-ed9f-4b8c-ae61-b6dc17e83d46")
+	)
+	(pad "3" smd roundrect
+		(at 1.25 -0.7)
+		(size 1 0.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "c4e6252a-4f6f-45fd-a5d3-f4c70b17d685")
+	)
+	(pad "4" smd roundrect
+		(at -1.25 -0.7)
+		(size 1 0.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "7d4d4ed2-6b97-402f-855f-df36595a501f")
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Cree-PLCC4_3.2x2.8mm_CCW.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
