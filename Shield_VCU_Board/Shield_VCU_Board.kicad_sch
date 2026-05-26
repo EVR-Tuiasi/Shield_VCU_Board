@@ -8,7 +8,7 @@
 		(title "VCU DASHBOARD V1.0")
 		(date "2026-03-20")
 		(rev "Viorel Stoica")
-		(company "EVR IASI")
+		(company "EVR TUIASI - STEPULEAC GHEORGHE")
 	)
 	(lib_symbols
 		(symbol "74xGxx:SN74LVC1G125DBV"
@@ -24257,7 +24257,7 @@
 		(uuid "ffb96866-4ad6-4ffa-a1fe-385f7859eb64")
 	)
 	(image
-		(at 510.12 383.7)
+		(at 566 383.7)
 		(scale 0.259686)
 		(uuid "6f7f6fd1-4b14-4e63-93dd-400f02e3fe6a")
 		(data "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgICAgMCAgIDAwMDBAYEBAQEBAgGBgUGCQgKCgkI"
