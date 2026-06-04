@@ -241,7 +241,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": ""
+      "sch_revision": "Viorel Stoica"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -509,6 +509,7 @@
         "priority": 2147483647,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.25,
+        "tuning_profile": "",
         "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
@@ -524,6 +525,7 @@
         "priority": 0,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.5,
+        "tuning_profile": "",
         "via_diameter": 0.6,
         "via_drill": 0.3
       },
@@ -538,12 +540,13 @@
         "priority": 1,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.5,
+        "tuning_profile": "",
         "via_diameter": 0.6,
         "via_drill": 0.3
       }
     ],
     "meta": {
-      "version": 4
+      "version": 5
     },
     "net_colors": null,
     "netclass_assignments": null,
@@ -731,7 +734,7 @@
       {
         "filename": "Shield_VCU_Board.kicad_sch",
         "name": "Shield_VCU_Board",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "4a8cb20d-5f30-4163-a2c8-18e2deeb65d3"
       }
     ],
     "used_designators": "",
@@ -740,7 +743,7 @@
   "sheets": [
     [
       "4a8cb20d-5f30-4163-a2c8-18e2deeb65d3",
-      "Root"
+      "Shield_VCU_Board"
     ]
   ],
   "text_variables": {},
