@@ -5,7 +5,7 @@ Reference,Qty,Value,Footprint,Description,Manufacturer part,Manufacturer,Issue?:
 C5,1,0.22uF,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,"Unpolarized capacitor, small symbol",0805ZC224KAT2A,KYOCERA AVX,
 "C6,C27,C29,C31,C33,C39,C43",7,1uF,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,"Unpolarized capacitor, small symbol",08053G105MAT2A,KYOCERA AVX,
 "C7,C14,C15,C16,C37,C40",6,27pF,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,"Unpolarized capacitor, small symbol",VJ0805A270GXJCW1BC,Vishay/Vitramon,
-C8,1,100uF,Capacitor_SMD:CP_Elec_4x5.4,Polarized capacitor,8.65081E+11,Wuerth Elektronik,
+C8,1,100uF,Capacitor_SMD:CP_Elec_4x5.4,Polarized capacitor,8.65E+11,Wuerth Elektronik,
 "C9,C11,C12,C17,C18,C19,C20,C35,C36,C41",10,0.1uF,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,"Unpolarized capacitor, small symbol",KAM21BR71H104JM,KYOCERA AVX,
 C10,1,10nF,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,GRM21BR7LU103KW01L,Murata Electronics,
 C13,1,4.7uF,Capacitor_Tantalum_SMD:CP_EIA-2012-12_Kemet-R_HandSolder,,TMCP1A475MTRF,Vishay,
