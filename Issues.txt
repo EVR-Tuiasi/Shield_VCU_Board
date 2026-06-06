@@ -1,0 +1,4 @@
+Probleme:
+-Main connector pitch 2mm - not good, need 2.5mm
+- main connector protection diode wrong footprint;actual diode much bigger;
+- Display touchscreen connector pin swapped (Corrected!);
