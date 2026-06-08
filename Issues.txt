@@ -2,3 +2,6 @@ Probleme:
 -Main connector pitch 2mm - not good, need 2.5mm
 - main connector protection diode wrong footprint;actual diode much bigger;
 - Display touchscreen connector pin swapped (Corrected!);
+- Diode D16, wrong part ordered pr wrong footprint;
+- Inductor 10mH , wrong part ordered or wrong footprint assigned;
+
