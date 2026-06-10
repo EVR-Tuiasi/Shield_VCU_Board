@@ -509,7 +509,6 @@
         "priority": 2147483647,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.25,
-        "tuning_profile": "",
         "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
@@ -525,7 +524,6 @@
         "priority": 0,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.5,
-        "tuning_profile": "",
         "via_diameter": 0.6,
         "via_drill": 0.3
       },
@@ -540,13 +538,12 @@
         "priority": 1,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.5,
-        "tuning_profile": "",
         "via_diameter": 0.6,
         "via_drill": 0.3
       }
     ],
     "meta": {
-      "version": 5
+      "version": 4
     },
     "net_colors": null,
     "netclass_assignments": null,
@@ -737,7 +734,7 @@
         "uuid": "4a8cb20d-5f30-4163-a2c8-18e2deeb65d3"
       }
     ],
-    "used_designators": "",
+    "used_designators": "U12-13,C45,C47-55,#PWR19,#PWR29-30,#PWR34-35,#PWR40,#PWR74,#PWR78-82,L3-4,R59-60,R65-66",
     "variants": []
   },
   "sheets": [
