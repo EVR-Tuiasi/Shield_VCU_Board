@@ -5,5 +5,6 @@ Probleme:
 - Diode D16, wrong part ordered pr wrong footprint; - Done
 - Inductor 10mH , wrong part ordered or wrong footprint assigned; - Done
 
-- BAT+ to 3.3 & 5V need a better solution in order to avoid overheat of the LDOs
+- BAT+ to 3.3 & 5V need a better solution in order to avoid overheat of the LDOs - In progress
+ - All diodes need to be verified and selected appropriate to their task;
 
