@@ -32214,7 +32214,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 102.87 255.27 0)
 			(hide yes)
 			(show_name no)
@@ -42561,7 +42561,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_Pulse_PA4340"
+		(property "Footprint" "Inductor_SMD:L_Coilcraft_LPS4018"
 			(at 90.17 250.19 0)
 			(hide yes)
 			(show_name no)
@@ -43214,7 +43214,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 104.14 303.53 0)
 			(hide yes)
 			(show_name no)
@@ -47097,7 +47097,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 109.22 255.27 0)
 			(hide yes)
 			(show_name no)
@@ -50082,7 +50082,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 111.76 303.53 0)
 			(hide yes)
 			(show_name no)
@@ -50397,7 +50397,7 @@
 				)
 			)
 		)
-		(property "Value" "634"
+		(property "Value" "635R"
 			(at 29.21 105.918 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -50798,7 +50798,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_Pulse_PA4340"
+		(property "Footprint" "Inductor_SMD:L_Coilcraft_LPS4018"
 			(at 92.71 295.91 0)
 			(hide yes)
 			(show_name no)

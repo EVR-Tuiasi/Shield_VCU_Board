@@ -60,7 +60,7 @@
           "hatch_smoothing_level": 0,
           "hatch_smoothing_value": 0.1,
           "hatch_thickness": 1.0,
-          "min_clearance": 0.5,
+          "min_clearance": 0.0,
           "min_island_area": 10.0,
           "min_thickness": 0.25,
           "pad_connection": 1,
@@ -602,7 +602,7 @@
       "method": 0,
       "sort_order": 0
     },
-    "bom_export_filename": "C:\\Users\\saint\\OneDrive\\Рабочий стол\\Shield_VCU_Board.csv",
+    "bom_export_filename": "..\\5.BOM\\Shield_VCU_Boardv2.0.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -669,7 +669,7 @@
           "group_by": false,
           "label": "Description",
           "name": "Description",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
