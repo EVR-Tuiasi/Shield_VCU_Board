@@ -16375,12 +16375,6 @@
 		(uuid "ce2f1090-8638-4ada-aebd-dc6a6c18c8e6")
 	)
 	(junction
-		(at 67.31 381)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "cf27d30b-800a-40e2-a0b1-a68c5a29deea")
-	)
-	(junction
 		(at 107.95 389.89)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -17660,7 +17654,7 @@
 	)
 	(wire
 		(pts
-			(xy 396.24 382.27) (xy 408.94 382.27)
+			(xy 396.24 382.27) (xy 440.69 382.27)
 		)
 		(stroke
 			(width 0)
@@ -17680,7 +17674,7 @@
 	)
 	(wire
 		(pts
-			(xy 396.24 369.57) (xy 408.94 369.57)
+			(xy 396.24 369.57) (xy 440.69 369.57)
 		)
 		(stroke
 			(width 0)
@@ -17727,16 +17721,6 @@
 			(type default)
 		)
 		(uuid "10814d9c-fe00-4188-b276-9c2b3375231a")
-	)
-	(wire
-		(pts
-			(xy 382.27 369.57) (xy 391.16 369.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "119c2e5a-3fe8-41ec-a463-867ba74a350f")
 	)
 	(wire
 		(pts
@@ -18257,16 +18241,6 @@
 			(type default)
 		)
 		(uuid "20562510-69bc-4694-9c17-8a0ca82a41c6")
-	)
-	(wire
-		(pts
-			(xy 430.53 382.27) (xy 440.69 382.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2058e755-f4e7-4983-9713-6d2b0e2482a2")
 	)
 	(wire
 		(pts
@@ -18930,16 +18904,6 @@
 	)
 	(wire
 		(pts
-			(xy 408.94 369.57) (xy 420.37 369.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "33a31c6a-652d-4f1b-8b39-db6f940b3399")
-	)
-	(wire
-		(pts
 			(xy 280.67 346.71) (xy 292.1 346.71)
 		)
 		(stroke
@@ -18997,16 +18961,6 @@
 			(type default)
 		)
 		(uuid "35e58552-5cad-46ea-96c9-90c267c17a9e")
-	)
-	(wire
-		(pts
-			(xy 67.31 381) (xy 68.58 381)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "362543ea-3b49-4d13-94df-b2ab00db6b1d")
 	)
 	(wire
 		(pts
@@ -19720,6 +19674,16 @@
 	)
 	(wire
 		(pts
+			(xy 383.54 382.27) (xy 391.16 382.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "48b66e1b-ad94-4d51-ba43-5912a7b1b274")
+	)
+	(wire
+		(pts
 			(xy 39.37 48.26) (xy 39.37 50.8)
 		)
 		(stroke
@@ -20008,16 +19972,6 @@
 			(type default)
 		)
 		(uuid "5039d4aa-bc40-4e6e-bee9-60f875c38394")
-	)
-	(wire
-		(pts
-			(xy 430.53 369.57) (xy 440.69 369.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "507503e8-d3fb-43fc-b9d9-4ac1b7686fbf")
 	)
 	(wire
 		(pts
@@ -20552,16 +20506,6 @@
 	)
 	(wire
 		(pts
-			(xy 408.94 382.27) (xy 420.37 382.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "61f3cf2e-58bc-4132-ac3c-474736275598")
-	)
-	(wire
-		(pts
 			(xy 468.63 81.28) (xy 468.63 87.63)
 		)
 		(stroke
@@ -20609,6 +20553,16 @@
 			(type default)
 		)
 		(uuid "6316e9cb-d05b-4bad-ae7e-b7cfe4093cda")
+	)
+	(wire
+		(pts
+			(xy 382.27 369.57) (xy 391.16 369.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "63277510-c4b0-4be2-a2c8-bb1411ffa82b")
 	)
 	(wire
 		(pts
@@ -21079,16 +21033,6 @@
 			(type default)
 		)
 		(uuid "71aaa440-e933-4766-8a16-292f86357ef8")
-	)
-	(wire
-		(pts
-			(xy 420.37 369.57) (xy 430.53 369.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "71f30ac7-241b-4f27-ad5c-55184686abbf")
 	)
 	(wire
 		(pts
@@ -22760,16 +22704,6 @@
 			(type default)
 		)
 		(uuid "a6920fb3-118e-4b83-8229-e837eed31a65")
-	)
-	(wire
-		(pts
-			(xy 383.54 382.27) (xy 391.16 382.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a6b3f909-8a9e-4419-90af-a7a8ac81b20b")
 	)
 	(wire
 		(pts
@@ -24623,16 +24557,6 @@
 			(type default)
 		)
 		(uuid "e23f8176-8426-45a7-845b-068f84a6ccb7")
-	)
-	(wire
-		(pts
-			(xy 420.37 382.27) (xy 430.53 382.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e26d8abe-b5fd-40d0-926e-e0e0eba22917")
 	)
 	(wire
 		(pts
@@ -31015,7 +30939,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TPA:TPS73601DRBR"
+		(property "Footprint" "ALibrary:SOP65P490X110-9L"
 			(at 513.08 347.98 0)
 			(hide yes)
 			(show_name no)
@@ -46987,7 +46911,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 68.58 381 270)
+		(at 440.69 369.57 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -46997,7 +46921,7 @@
 		(dnp no)
 		(uuid "bf51c482-220a-4ae3-a90d-876a405732ef")
 		(property "Reference" "AUDV5"
-			(at 69.85 378.968 90)
+			(at 445.262 369.57 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -47008,7 +46932,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 73.914 382.016 0)
+			(at 446.024 370.586 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -47020,7 +46944,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 68.58 386.08 0)
+			(at 440.69 374.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -47031,7 +46955,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 68.58 386.08 0)
+			(at 440.69 374.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -47042,7 +46966,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 68.58 381 0)
+			(at 440.69 369.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -47862,6 +47786,85 @@
 			(project "Shield_VCU_Board"
 				(path "/4a8cb20d-5f30-4163-a2c8-18e2deeb65d3"
 					(reference "C31")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 440.69 382.27 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "cb6c3635-c144-4e56-a279-45335e4b5422")
+		(property "Reference" "AUDGND1"
+			(at 445.262 382.27 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 446.024 383.286 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+			(at 440.69 387.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 440.69 387.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 440.69 382.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "cec91893-d8a5-48f2-a1f5-40f1d077f4fd")
+		)
+		(instances
+			(project "Shield_VCU_Board"
+				(path "/4a8cb20d-5f30-4163-a2c8-18e2deeb65d3"
+					(reference "AUDGND1")
 					(unit 1)
 				)
 			)
