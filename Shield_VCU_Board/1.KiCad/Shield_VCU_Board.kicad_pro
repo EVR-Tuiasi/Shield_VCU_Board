@@ -754,7 +754,7 @@
         "uuid": "4a8cb20d-5f30-4163-a2c8-18e2deeb65d3"
       }
     ],
-    "used_designators": "AUDGND1,AUDV6",
+    "used_designators": "AUDGND1,JP1-4,AUDV6",
     "variants": []
   },
   "sheets": [
