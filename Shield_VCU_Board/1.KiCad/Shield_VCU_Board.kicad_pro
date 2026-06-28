@@ -76,12 +76,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        [
-          "silk_overlap|225122008|146744400|8da431ac-7f17-48f8-9885-9b8180402f0d|9a904550-b5dd-4b59-acbb-89ea89d15761",
-          "Intended"
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -759,7 +754,7 @@
         "uuid": "4a8cb20d-5f30-4163-a2c8-18e2deeb65d3"
       }
     ],
-    "used_designators": "",
+    "used_designators": "JP1-3",
     "variants": []
   },
   "sheets": [
