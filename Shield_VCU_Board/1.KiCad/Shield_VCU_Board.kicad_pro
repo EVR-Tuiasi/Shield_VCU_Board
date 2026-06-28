@@ -587,7 +587,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "Gerbers/",
+      "plot": "../6.Gerbers/v2.2/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "C:/Users/saint/OneDrive/Рабочий стол/Shield_VCU_Board.step",
@@ -602,7 +602,7 @@
       "method": 0,
       "sort_order": 0
     },
-    "bom_export_filename": "..\\5.BOM\\Shield_VCU_Boardv2.0.csv",
+    "bom_export_filename": "..\\5.BOM\\Shield_VCU_Boardv2.2.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",

@@ -1,0 +1,49 @@
+Reference,Qty,Value,Footprint,Part Nr.,Manufacturer
+"7U1,7U2,7U3,7U4,7U5,7U6,7U7,7U8",8,HDSP-7803_EVR,GHSTProj:T7DS052BC,157136B12701,Wurth Elektronik
+"C1,C2,C3",3,4.7nF,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,Avem la Garaj
+"C4,C42",2,0.47uF,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,Avem la Garaj
+C5,1,0.22uF,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,Avem la Garaj
+"C6,C27,C29,C31,C33,C39,C43",5,1uF,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,-,Avem la Garaj
+"C7,C16,C37,C40",5,27pF,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,Avem la Garaj
+C8,2,100uF,Capacitor_SMD:CP_Elec_5x5.4,865060343005,Wurth Elektronik
+"C9,C11,C12,C17,C18,C19,C20,C35,C36,C41,C45,C49,C50,C54",13,0.1uF,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,Avem la garaj
+C10,1,10nF,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,Avem la garaj
+"C13,C38",2,4.7uF,"Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,Capacitor_Tantalum_SMD:CP_EIA-2012-12_Kemet-R_HandSolder",,Avem la garaj
+C15,1,22uF,,865230543003,Wurth Elektronik
+"C51,C53",2,22uF,,C3225X7R1C226K250AC,TDK
+"C28,C30,C32,C34",2,2.2uF,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,Avem la Garaj
+C44,1,220nF,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,Avem la Garaj
+"C47,C55",1,10uF,Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder,12103C106K4T4A,KYOCERA AVX
+"D1,D2,D3,D4",4,AA35*,ALibrary:LED_Cree-PLCC4_3.2x2.8mm_CCW_Orange,,Avem la Garaj
+"D7,D8,D9,D10",4,MBR0540,Diode_SMD:D_SOD-123,,Avem la Garaj
+"D11,D12,D13,D14",4,LED,LED_SMD:LED_0805_2012Metric,,Avem la Garaj
+"D15,D16",2,SSC54*,Diode_SMD:D_SMC,SSC54HE3_A/H,Vishay Semiconductors
+D17,1,1N4148WT,Diode_SMD:D_SOD-123,1N4148WT,YAGEO
+"FB1,FB2",2,600R/1A,Inductor_SMD:L_1206_3216Metric_Pad1.22x1.90mm_HandSolder,,Avem la Garaj
+"L2,L3,L4",3,10uH,"Inductor_SMD:L_Coilcraft_LPS4018,Inductor_SMD:L_Pulse_PA4340",LPS4018-103MRC,Coilcraft
+"Q1,Q2,Q3,Q4",4,BSS138,Package_TO_SOT_SMD:SOT-23,,Avem la Garaj
+"R1,R17,R18,R23",4,18k,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,Avem la Garaj
+"R3,R4,R5,R22,R52,R2",6,635R,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,Avem la Garaj
+"R6,R10,R27,RN8",4,33R,"Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,Resistor_SMD:R_Cat16-4",,Avem la Garaj
+"R7,R8,R9,R19,R53,R54,R61,R63",8,1k,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,Avem la Garaj
+"R11,R16,R20,R21",4,47k,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,Avem la Garaj
+"R12,R14",2,10k1%,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,Avem la Garaj
+"R13,R15",2,20k1%,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,Avem la Garaj
+"R24,R25,R26,R28",4,220R,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,Avem la Garaj
+"R55,R56",2,4.7k,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,Avem la Garaj
+R59,1,523k,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,RC1206FR-07523KL,YAGEO
+"R60,R62,R66",1,100k,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,Avem la Garaj
+R64,1,4k7,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,Avem la Garaj
+R65,1,73k2 .1%,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,RP73D2B73K2BTDF,TE Connectivity / AMP
+"RN1,RN2,RN3,RN4,RN5,RN6,RN7",7,R_Pack_33R_04,Resistor_SMD:R_Array_Convex_4x0402,,Avem la Garaj
+RSET1,1,11k,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,Avem la Garaj
+RSET2,1,1.1R1%,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,Avem la Garaj
+U1,1,AS1115-BSST,Package_SO:QSOP-24_3.9x8.7mm_P0.635mm,,Avem la Garaj
+U2,1,SN74LVC1G125DBV,Package_TO_SOT_SMD:SOT-23-5,,Avem la Garaj
+U3,1,MC74HC14A,Package_SO:SOIC-14_3.9x8.7mm_P1.27mm,,Avem la Garaj
+U4,1,TPA6211A1 ,TPA:TPS73601DRBR,TPA6211A1DGNR,Texas Instruments
+"U5,U6",2,TLV76150DCY,Package_TO_SOT_SMD:SOT-223-3_TabPin2,,Avem la Garaj
+U7,1,FT813Q,Package_CSP:LFCSP-56-1EP_8x8mm_P0.5mm_EP6.6x6.6mm,,Avem la Garaj
+"U8,U9",2,TLV76133DCY,Package_TO_SOT_SMD:SOT-223-3_TabPin2,,Avem la Garaj
+U10,1,TPS61165-Q1,Package_TO_SOT_SMD:SOT-23-6,,Avem la Garaj
+"U12,U13",2,TPS54202DDC,Package_TO_SOT_SMD:SOT-23-6,TPS542025DDCR,Texas Instruments
