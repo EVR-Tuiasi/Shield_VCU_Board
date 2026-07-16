@@ -29305,7 +29305,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-0000698fb209")
 		(property "Reference" "R15"
 			(at 513.08 304.038 90)
@@ -29396,7 +29396,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k1%"
+		(property "Value" "300R1%"
 			(at 498.0686 300.863 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29555,7 +29555,7 @@
 				)
 			)
 		)
-		(property "Value" "10k1%"
+		(property "Value" "300R1%"
 			(at 490.22 348.742 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29621,7 +29621,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-000069a4c1f5")
 		(property "Reference" "R13"
 			(at 510.54 344.678 90)
